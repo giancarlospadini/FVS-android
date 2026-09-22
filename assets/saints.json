@@ -1,0 +1,2930 @@
+[
+  {
+    "month": 1,
+    "day": 1,
+    "saint": "Maria Santissima Madre di Dio",
+    "quote": "L'anima mia magnifica il Signore e il mio spirito esulta in Dio, mio salvatore.",
+    "attribution": "Luca 1,46-47",
+    "prayer": "Maria, Madre di Dio, proteggi i tuoi figli e guidaci nel nuovo anno."
+  },
+  {
+    "month": 1,
+    "day": 2,
+    "saint": "Santi Basilio Magno e Gregorio Nazianzeno",
+    "quote": "Se parliamo di Dio, è Dio stesso che ci ispira la parola.",
+    "attribution": "San Basilio Magno",
+    "prayer": "Santi Basilio e Gregorio, illuminateci con la sapienza della fede."
+  },
+  {
+    "month": 1,
+    "day": 3,
+    "saint": "Santissimo Nome di Gesù",
+    "quote": "Nel nome di Gesù ogni ginocchio si pieghi nei cieli, sulla terra e sotto terra.",
+    "attribution": "Filippesi 2,10",
+    "prayer": "Gesù, il tuo nome sia la nostra forza e la nostra speranza."
+  },
+  {
+    "month": 1,
+    "day": 4,
+    "saint": "Santa Angela da Foligno",
+    "quote": "Il mondo è pieno di Dio, ed ogni cosa è pregna di Lui.",
+    "attribution": "Santa Angela da Foligno",
+    "prayer": "Santa Angela, insegnaci a riconoscere Dio in ogni cosa."
+  },
+  {
+    "month": 1,
+    "day": 5,
+    "saint": "San Giovanni Nepomuceno Neumann",
+    "quote": "Chi non avanza nella vita spirituale, retrocede.",
+    "attribution": "San Giovanni Nepomuceno Neumann",
+    "prayer": "San Giovanni, aiutaci a progredire ogni giorno nella fede."
+  },
+  {
+    "month": 1,
+    "day": 6,
+    "saint": "Epifania del Signore",
+    "quote": "Entrati nella casa, videro il bambino con Maria sua madre, e prostratisi lo adorarono.",
+    "attribution": "Matteo 2,11",
+    "prayer": "Signore, guidaci con la tua stella verso la luce della verità."
+  },
+  {
+    "month": 1,
+    "day": 7,
+    "saint": "San Raimondo de Peñafort",
+    "quote": "La misericordia senza la giustizia è madre della dissoluzione; la giustizia senza la misericordia è crudeltà.",
+    "attribution": "San Raimondo de Peñafort",
+    "prayer": "San Raimondo, ottienici la grazia di unire giustizia e misericordia."
+  },
+  {
+    "month": 1,
+    "day": 8,
+    "saint": "San Massimiano di Costantinopoli",
+    "quote": "La verità non ha bisogno di difesa, ma solo di essere proclamata.",
+    "attribution": "San Massimiano",
+    "prayer": "San Massimiano, donaci il coraggio di proclamare la verità."
+  },
+  {
+    "month": 1,
+    "day": 9,
+    "saint": "Santa Marianna Cope",
+    "quote": "Non sono venuta per essere servita, ma per servire i più bisognosi.",
+    "attribution": "Santa Marianna Cope",
+    "prayer": "Santa Marianna, insegnaci la gioia del servizio ai fratelli."
+  },
+  {
+    "month": 1,
+    "day": 10,
+    "saint": "Sant'Aldo eremita",
+    "quote": "Nella solitudine Dio parla al cuore dell'uomo.",
+    "attribution": "Sant'Aldo",
+    "prayer": "Sant'Aldo, aiutaci a trovare il silenzio per ascoltare Dio."
+  },
+  {
+    "month": 1,
+    "day": 11,
+    "saint": "San Teodosio il Cenobiarca",
+    "quote": "La vita comune è la via più sicura per giungere a Dio.",
+    "attribution": "San Teodosio",
+    "prayer": "San Teodosio, insegnaci a vivere in comunione fraterna."
+  },
+  {
+    "month": 1,
+    "day": 12,
+    "saint": "Santa Margherita Bourgeoys",
+    "quote": "Dio non chiede grandi cose, ma solo un cuore sincero.",
+    "attribution": "Santa Margherita Bourgeoys",
+    "prayer": "Santa Margherita, donaci un cuore semplice e sincero."
+  },
+  {
+    "month": 1,
+    "day": 13,
+    "saint": "Sant'Ilario di Poitiers",
+    "quote": "La fede non è conoscenza, ma obbedienza alla verità.",
+    "attribution": "Sant'Ilario di Poitiers",
+    "prayer": "Sant'Ilario, rafforzaci nella difesa della vera fede."
+  },
+  {
+    "month": 1,
+    "day": 14,
+    "saint": "San Felice di Nola",
+    "quote": "Chi confida nel Signore non resterà deluso.",
+    "attribution": "San Felice di Nola",
+    "prayer": "San Felice, accresci in noi la fiducia nel Signore."
+  },
+  {
+    "month": 1,
+    "day": 15,
+    "saint": "San Mauro abate",
+    "quote": "Obbedire con amore è la più alta forma di libertà.",
+    "attribution": "San Mauro",
+    "prayer": "San Mauro, insegnaci l'obbedienza che nasce dall'amore."
+  },
+  {
+    "month": 1,
+    "day": 16,
+    "saint": "San Marcello I papa",
+    "quote": "Il pastore buono dà la vita per le sue pecore.",
+    "attribution": "San Marcello I",
+    "prayer": "San Marcello, intercedi per i pastori della Chiesa."
+  },
+  {
+    "month": 1,
+    "day": 17,
+    "saint": "Sant'Antonio abate",
+    "quote": "Dio è buono e fa solo cose buone; siamo noi che siamo cattivi.",
+    "attribution": "Sant'Antonio abate",
+    "prayer": "Sant'Antonio, proteggi il nostro corpo e la nostra anima."
+  },
+  {
+    "month": 1,
+    "day": 18,
+    "saint": "Santa Margherita d'Ungheria",
+    "quote": "Preferisco la corona di spine a quella d'oro.",
+    "attribution": "Santa Margherita d'Ungheria",
+    "prayer": "Santa Margherita, donaci l'umiltà di preferire Dio al mondo."
+  },
+  {
+    "month": 1,
+    "day": 19,
+    "saint": "San Mario e compagni martiri",
+    "quote": "Il sangue dei martiri è seme di nuovi cristiani.",
+    "attribution": "Tertulliano",
+    "prayer": "San Mario, donaci la fortezza di testimoniare la fede."
+  },
+  {
+    "month": 1,
+    "day": 20,
+    "saint": "San Fabiano papa e martire",
+    "quote": "Non temete coloro che uccidono il corpo, ma non possono uccidere l'anima.",
+    "attribution": "Matteo 10,28",
+    "prayer": "San Fabiano, donaci il coraggio dei martiri."
+  },
+  {
+    "month": 1,
+    "day": 21,
+    "saint": "Sant'Agnese vergine e martire",
+    "quote": "Cristo è il mio unico sposo; amandolo sono casta, toccandolo sono pura.",
+    "attribution": "Sant'Agnese",
+    "prayer": "Sant'Agnese, custodisci la purezza del nostro cuore."
+  },
+  {
+    "month": 1,
+    "day": 22,
+    "saint": "San Vincenzo diacono e martire",
+    "quote": "Non posso tacere la verità di Dio, anche a costo della vita.",
+    "attribution": "San Vincenzo",
+    "prayer": "San Vincenzo, donaci la forza di non tacere mai la verità."
+  },
+  {
+    "month": 1,
+    "day": 23,
+    "saint": "San Francesco di Sales",
+    "quote": "Non con la severità, ma con la dolcezza si conquista il cuore degli uomini.",
+    "attribution": "San Francesco di Sales",
+    "prayer": "San Francesco, insegnaci la dolcezza nell'annuncio del Vangelo."
+  },
+  {
+    "month": 1,
+    "day": 24,
+    "saint": "San Francesco di Sales (memoria)",
+    "quote": "Sii chi sei e sii quello bene.",
+    "attribution": "San Francesco di Sales",
+    "prayer": "San Francesco, aiutaci a essere autentici nella fede."
+  },
+  {
+    "month": 1,
+    "day": 25,
+    "saint": "Conversione di San Paolo",
+    "quote": "Non vivo più io, ma Cristo vive in me.",
+    "attribution": "Galati 2,20",
+    "prayer": "San Paolo, convertici ogni giorno a Cristo."
+  },
+  {
+    "month": 1,
+    "day": 26,
+    "saint": "Santi Timoteo e Tito",
+    "quote": "Combatti la buona battaglia della fede, cerca di raggiungere la vita eterna.",
+    "attribution": "1 Timoteo 6,12",
+    "prayer": "Santi Timoteo e Tito, aiutateci a essere fedeli discepoli."
+  },
+  {
+    "month": 1,
+    "day": 27,
+    "saint": "Sant'Angela Merici",
+    "quote": "Agite, muovetevi, credete, sforzatevi, sperate, gridate a Dio con tutto il cuore.",
+    "attribution": "Sant'Angela Merici",
+    "prayer": "Sant'Angela, donaci zelo e coraggio nell'opera educativa."
+  },
+  {
+    "month": 1,
+    "day": 28,
+    "saint": "San Tommaso d'Aquino",
+    "quote": "Per coloro che hanno fede, nessuna spiegazione è necessaria. Per coloro che non hanno fede, nessuna spiegazione è possibile.",
+    "attribution": "San Tommaso d'Aquino",
+    "prayer": "San Tommaso, illumina la nostra mente con la luce della verità."
+  },
+  {
+    "month": 1,
+    "day": 29,
+    "saint": "San Costanzo di Perugia",
+    "quote": "La fede è la luce che illumina le tenebre del mondo.",
+    "attribution": "San Costanzo",
+    "prayer": "San Costanzo, sii nostro protettore e guida."
+  },
+  {
+    "month": 1,
+    "day": 30,
+    "saint": "Santa Giacinta di Fatima",
+    "quote": "Bisogna pregare molto per i peccatori e fare sacrifici per la pace.",
+    "attribution": "Santa Giacinta di Fatima",
+    "prayer": "Santa Giacinta, insegnaci la preghiera e il sacrificio."
+  },
+  {
+    "month": 1,
+    "day": 31,
+    "saint": "San Giovanni Bosco",
+    "quote": "La santità consiste nello stare molto allegri.",
+    "attribution": "San Giovanni Bosco",
+    "prayer": "San Giovanni Bosco, proteggi i giovani e guidali sulla via del bene."
+  },
+  {
+    "month": 2,
+    "day": 1,
+    "saint": "Santa Brigida d'Irlanda",
+    "quote": "Cristo abita nel cuore di ogni uomo che lo accoglie con fede.",
+    "attribution": "Santa Brigida d'Irlanda",
+    "prayer": "Santa Brigida, accendi in noi il fuoco della carità."
+  },
+  {
+    "month": 2,
+    "day": 2,
+    "saint": "Presentazione del Signore",
+    "quote": "I miei occhi hanno visto la tua salvezza, luce per illuminare le genti.",
+    "attribution": "Luca 2,30-32",
+    "prayer": "Signore, sii la luce che illumina il nostro cammino."
+  },
+  {
+    "month": 2,
+    "day": 3,
+    "saint": "San Biagio vescovo e martire",
+    "quote": "Dio guarisce le ferite del corpo e dell'anima con la sua grazia.",
+    "attribution": "San Biagio",
+    "prayer": "San Biagio, proteggi la nostra salute del corpo e dell'anima."
+  },
+  {
+    "month": 2,
+    "day": 4,
+    "saint": "San Giuseppe di Leonessa",
+    "quote": "La croce è la scala del paradiso.",
+    "attribution": "San Giuseppe di Leonessa",
+    "prayer": "San Giuseppe, donaci la forza di portare la nostra croce."
+  },
+  {
+    "month": 2,
+    "day": 5,
+    "saint": "Sant'Agata vergine e martire",
+    "quote": "Signore Gesù Cristo, sei il mio unico bene; custodisci il mio cuore.",
+    "attribution": "Sant'Agata",
+    "prayer": "Sant'Agata, proteggi tutti coloro che soffrono per la fede."
+  },
+  {
+    "month": 2,
+    "day": 6,
+    "saint": "San Paolo Miki e compagni",
+    "quote": "Ho seguito l'insegnamento di Cristo: non c'è altra via di salvezza.",
+    "attribution": "San Paolo Miki",
+    "prayer": "San Paolo Miki, donaci la fortezza dei martiri."
+  },
+  {
+    "month": 2,
+    "day": 7,
+    "saint": "San Riccardo di Lucca",
+    "quote": "Pellegrini siamo sulla terra, ma la nostra patria è il cielo.",
+    "attribution": "San Riccardo di Lucca",
+    "prayer": "San Riccardo, guidaci nel pellegrinaggio della vita."
+  },
+  {
+    "month": 2,
+    "day": 8,
+    "saint": "Santa Giuseppina Bakhita",
+    "quote": "Se incontrassi quei negrieri che mi hanno rapita, mi inginocchierei a baciare loro le mani, perché grazie a loro sono diventata cristiana.",
+    "attribution": "Santa Giuseppina Bakhita",
+    "prayer": "Santa Bakhita, insegnaci il perdono e la gratitudine."
+  },
+  {
+    "month": 2,
+    "day": 9,
+    "saint": "Santa Apollonia vergine e martire",
+    "quote": "Nessun tormento può separarmi dall'amore di Cristo.",
+    "attribution": "Santa Apollonia",
+    "prayer": "Santa Apollonia, donaci la pazienza nelle sofferenze."
+  },
+  {
+    "month": 2,
+    "day": 10,
+    "saint": "Santa Scolastica",
+    "quote": "Può più l'amore presso Dio che non la volontà degli uomini.",
+    "attribution": "San Gregorio Magno su Santa Scolastica",
+    "prayer": "Santa Scolastica, insegnaci la preghiera che tocca il cuore di Dio."
+  },
+  {
+    "month": 2,
+    "day": 11,
+    "saint": "Beata Vergine Maria di Lourdes",
+    "quote": "Io sono l'Immacolata Concezione.",
+    "attribution": "La Madonna a Bernadette",
+    "prayer": "Maria di Lourdes, guarisci le nostre infermità del corpo e dell'anima."
+  },
+  {
+    "month": 2,
+    "day": 12,
+    "saint": "Santa Eulalia di Barcellona",
+    "quote": "Cristo è il mio Dio; io non adoro gli idoli.",
+    "attribution": "Santa Eulalia",
+    "prayer": "Santa Eulalia, donaci la fermezza nella professione di fede."
+  },
+  {
+    "month": 2,
+    "day": 13,
+    "saint": "Santi Fosca e Maura",
+    "quote": "L'amore perfetto scaccia il timore.",
+    "attribution": "1 Giovanni 4,18",
+    "prayer": "Sante Fosca e Maura, dateci il coraggio che viene dall'amore."
+  },
+  {
+    "month": 2,
+    "day": 14,
+    "saint": "Santi Cirillo e Metodio",
+    "quote": "Chi prega in lingua propria, prega con il cuore.",
+    "attribution": "Santi Cirillo e Metodio",
+    "prayer": "Santi Cirillo e Metodio, uniteci nella diversità della fede."
+  },
+  {
+    "month": 2,
+    "day": 15,
+    "saint": "San Claudio de la Colombière",
+    "quote": "Confido in Dio: Egli non abbandona mai chi si affida a Lui.",
+    "attribution": "San Claudio de la Colombière",
+    "prayer": "San Claudio, aumenta la nostra fiducia nel Sacro Cuore."
+  },
+  {
+    "month": 2,
+    "day": 16,
+    "saint": "Santa Giuliana di Nicomedia",
+    "quote": "Il coraggio cristiano nasce dalla certezza della risurrezione.",
+    "attribution": "Santa Giuliana",
+    "prayer": "Santa Giuliana, donaci forza nelle prove della vita."
+  },
+  {
+    "month": 2,
+    "day": 17,
+    "saint": "Sette Santi Fondatori dei Servi di Maria",
+    "quote": "Chi serve Maria, serve il Figlio suo.",
+    "attribution": "Sette Santi Fondatori",
+    "prayer": "Santi Fondatori, insegnateci la devozione a Maria."
+  },
+  {
+    "month": 2,
+    "day": 18,
+    "saint": "San Simeone vescovo e martire",
+    "quote": "Ho vissuto per Cristo e per Cristo sono pronto a morire.",
+    "attribution": "San Simeone",
+    "prayer": "San Simeone, donaci la perseveranza nella fede."
+  },
+  {
+    "month": 2,
+    "day": 19,
+    "saint": "San Corrado Confalonieri",
+    "quote": "La penitenza apre le porte del cielo.",
+    "attribution": "San Corrado",
+    "prayer": "San Corrado, aiutaci nella conversione quotidiana."
+  },
+  {
+    "month": 2,
+    "day": 20,
+    "saint": "Santi Giacinto e Proto",
+    "quote": "La carità fraterna è il segno dei discepoli di Cristo.",
+    "attribution": "Santi Giacinto e Proto",
+    "prayer": "Santi Giacinto e Proto, uniteci nella carità fraterna."
+  },
+  {
+    "month": 2,
+    "day": 21,
+    "saint": "San Pier Damiani",
+    "quote": "L'umiltà è il fondamento di tutte le virtù.",
+    "attribution": "San Pier Damiani",
+    "prayer": "San Pier Damiani, insegnaci la vera umiltà."
+  },
+  {
+    "month": 2,
+    "day": 22,
+    "saint": "Cattedra di San Pietro",
+    "quote": "Tu sei il Cristo, il Figlio del Dio vivente.",
+    "attribution": "Matteo 16,16",
+    "prayer": "San Pietro, rafforza la nostra fede nella Chiesa."
+  },
+  {
+    "month": 2,
+    "day": 23,
+    "saint": "San Policarpo vescovo e martire",
+    "quote": "Da ottantasei anni servo Cristo e non mi ha mai fatto torto: come posso bestemmiare il mio Re?",
+    "attribution": "San Policarpo",
+    "prayer": "San Policarpo, donaci la fedeltà fino alla fine."
+  },
+  {
+    "month": 2,
+    "day": 24,
+    "saint": "San Modesto di Treviri",
+    "quote": "La mitezza è la forza dei santi.",
+    "attribution": "San Modesto",
+    "prayer": "San Modesto, insegnaci la forza della mitezza."
+  },
+  {
+    "month": 2,
+    "day": 25,
+    "saint": "San Cesario di Nazianzo",
+    "quote": "La scienza senza la fede è come una lampada senza olio.",
+    "attribution": "San Cesario",
+    "prayer": "San Cesario, aiutaci a unire scienza e fede."
+  },
+  {
+    "month": 2,
+    "day": 26,
+    "saint": "Sant'Alessandro di Alessandria",
+    "quote": "La verità della fede non si negozia.",
+    "attribution": "Sant'Alessandro",
+    "prayer": "Sant'Alessandro, donaci fermezza nella dottrina."
+  },
+  {
+    "month": 2,
+    "day": 27,
+    "saint": "San Gabriele dell'Addolorata",
+    "quote": "La Madonna è la mia mamma, il mio amore, la mia gioia!",
+    "attribution": "San Gabriele dell'Addolorata",
+    "prayer": "San Gabriele, insegnaci l'amore tenero verso Maria."
+  },
+  {
+    "month": 2,
+    "day": 28,
+    "saint": "San Romano di Condat",
+    "quote": "Nel deserto del silenzio fiorisce la preghiera.",
+    "attribution": "San Romano",
+    "prayer": "San Romano, guidaci nella preghiera silenziosa."
+  },
+  {
+    "month": 2,
+    "day": 29,
+    "saint": "Sant'Ilario papa",
+    "quote": "Governare la Chiesa è servire i fratelli nella fede.",
+    "attribution": "Sant'Ilario papa",
+    "prayer": "Sant'Ilario, intercedi per il Papa e per tutta la Chiesa."
+  },
+  {
+    "month": 3,
+    "day": 1,
+    "saint": "Sant'Albino di Angers",
+    "quote": "Il buon pastore conosce le sue pecore e le chiama per nome.",
+    "attribution": "Sant'Albino",
+    "prayer": "Sant'Albino, guidaci come un buon pastore."
+  },
+  {
+    "month": 3,
+    "day": 2,
+    "saint": "Sant'Agnese di Boemia",
+    "quote": "La povertà scelta per amore è la vera ricchezza.",
+    "attribution": "Sant'Agnese di Boemia",
+    "prayer": "Sant'Agnese, insegnaci la libertà della povertà evangelica."
+  },
+  {
+    "month": 3,
+    "day": 3,
+    "saint": "Santa Cunegonda imperatrice",
+    "quote": "La vera nobiltà è quella dell'anima.",
+    "attribution": "Santa Cunegonda",
+    "prayer": "Santa Cunegonda, donaci la nobiltà interiore."
+  },
+  {
+    "month": 3,
+    "day": 4,
+    "saint": "San Casimiro",
+    "quote": "Meglio morire che peccare.",
+    "attribution": "San Casimiro",
+    "prayer": "San Casimiro, custodisci la purezza del nostro cuore."
+  },
+  {
+    "month": 3,
+    "day": 5,
+    "saint": "San Giovanni Giuseppe della Croce",
+    "quote": "L'amore di Dio è un fuoco che tutto trasforma.",
+    "attribution": "San Giovanni Giuseppe della Croce",
+    "prayer": "San Giovanni Giuseppe, accendi in noi il fuoco dell'amore divino."
+  },
+  {
+    "month": 3,
+    "day": 6,
+    "saint": "Santa Coletta di Corbie",
+    "quote": "La riforma comincia dal proprio cuore.",
+    "attribution": "Santa Coletta",
+    "prayer": "Santa Coletta, aiutaci a riformare noi stessi prima degli altri."
+  },
+  {
+    "month": 3,
+    "day": 7,
+    "saint": "Sante Perpetua e Felicita",
+    "quote": "Ora soffriamo noi; ma poi sarà un Altro a soffrire in noi.",
+    "attribution": "Santa Perpetua",
+    "prayer": "Sante Perpetua e Felicita, dateci il coraggio della testimonianza."
+  },
+  {
+    "month": 3,
+    "day": 8,
+    "saint": "San Giovanni di Dio",
+    "quote": "Se consideriamo le miserie degli altri, le nostre ci sembreranno leggere.",
+    "attribution": "San Giovanni di Dio",
+    "prayer": "San Giovanni di Dio, insegnaci la carità verso i malati."
+  },
+  {
+    "month": 3,
+    "day": 9,
+    "saint": "Santa Francesca Romana",
+    "quote": "L'obbedienza vale più del sacrificio.",
+    "attribution": "Santa Francesca Romana",
+    "prayer": "Santa Francesca, insegnaci a servire Dio nella famiglia."
+  },
+  {
+    "month": 3,
+    "day": 10,
+    "saint": "San Simplicio papa",
+    "quote": "La semplicità del cuore è la porta della santità.",
+    "attribution": "San Simplicio",
+    "prayer": "San Simplicio, donaci un cuore semplice e puro."
+  },
+  {
+    "month": 3,
+    "day": 11,
+    "saint": "San Sofronio di Gerusalemme",
+    "quote": "Custodire la fede è il primo dovere del cristiano.",
+    "attribution": "San Sofronio",
+    "prayer": "San Sofronio, aiutaci a custodire il deposito della fede."
+  },
+  {
+    "month": 3,
+    "day": 12,
+    "saint": "San Luigi Orione",
+    "quote": "Solo la carità salverà il mondo!",
+    "attribution": "San Luigi Orione",
+    "prayer": "San Luigi Orione, insegnaci la carità operosa."
+  },
+  {
+    "month": 3,
+    "day": 13,
+    "saint": "Santa Patrizia di Costantinopoli",
+    "quote": "La vita consacrata è una fiamma che illumina il mondo.",
+    "attribution": "Santa Patrizia",
+    "prayer": "Santa Patrizia, guida chi consacra la vita a Dio."
+  },
+  {
+    "month": 3,
+    "day": 14,
+    "saint": "Santa Matilde di Germania",
+    "quote": "I beni del mondo passano, ma la carità resta in eterno.",
+    "attribution": "Santa Matilde",
+    "prayer": "Santa Matilde, insegnaci la generosità verso i poveri."
+  },
+  {
+    "month": 3,
+    "day": 15,
+    "saint": "Santa Luisa de Marillac",
+    "quote": "La carità di Cristo ci spinge ad andare verso i più poveri.",
+    "attribution": "Santa Luisa de Marillac",
+    "prayer": "Santa Luisa, donaci occhi per vedere Cristo nei poveri."
+  },
+  {
+    "month": 3,
+    "day": 16,
+    "saint": "Sant'Eriberto di Colonia",
+    "quote": "Chi prega per il popolo di Dio compie l'opera più grande.",
+    "attribution": "Sant'Eriberto",
+    "prayer": "Sant'Eriberto, intercedi per il popolo di Dio."
+  },
+  {
+    "month": 3,
+    "day": 17,
+    "saint": "San Patrizio",
+    "quote": "Cristo con me, Cristo davanti a me, Cristo dietro di me, Cristo in me.",
+    "attribution": "San Patrizio",
+    "prayer": "San Patrizio, circondaci con la protezione di Cristo."
+  },
+  {
+    "month": 3,
+    "day": 18,
+    "saint": "San Cirillo di Gerusalemme",
+    "quote": "L'acqua del battesimo è la tomba e la madre del cristiano.",
+    "attribution": "San Cirillo di Gerusalemme",
+    "prayer": "San Cirillo, rinnovaci nella grazia del battesimo."
+  },
+  {
+    "month": 3,
+    "day": 19,
+    "saint": "San Giuseppe sposo della Beata Vergine Maria",
+    "quote": "Qualunque cosa facciate, fatela di cuore, come per il Signore.",
+    "attribution": "Colossesi 3,23",
+    "prayer": "San Giuseppe, proteggi le nostre famiglie e il nostro lavoro."
+  },
+  {
+    "month": 3,
+    "day": 20,
+    "saint": "San Martino di Braga",
+    "quote": "La conversione dei popoli comincia dalla conversione del cuore.",
+    "attribution": "San Martino di Braga",
+    "prayer": "San Martino, aiutaci a essere strumenti di conversione."
+  },
+  {
+    "month": 3,
+    "day": 21,
+    "saint": "San Nicola di Flüe",
+    "quote": "La pace è sempre in Dio, perché Dio è la pace.",
+    "attribution": "San Nicola di Flüe",
+    "prayer": "San Nicola, donaci la pace interiore e tra i popoli."
+  },
+  {
+    "month": 3,
+    "day": 22,
+    "saint": "Santa Lea di Roma",
+    "quote": "Servire Dio nell'umiltà è la via della gioia.",
+    "attribution": "Santa Lea",
+    "prayer": "Santa Lea, insegnaci la gioia del servizio umile."
+  },
+  {
+    "month": 3,
+    "day": 23,
+    "saint": "San Turibio de Mogrovejo",
+    "quote": "Il tempo è breve; lavoriamo senza sosta per le anime.",
+    "attribution": "San Turibio",
+    "prayer": "San Turibio, donaci zelo apostolico per le anime."
+  },
+  {
+    "month": 3,
+    "day": 24,
+    "saint": "Santa Caterina di Svezia",
+    "quote": "La preghiera è il respiro dell'anima.",
+    "attribution": "Santa Caterina di Svezia",
+    "prayer": "Santa Caterina, insegnaci a pregare senza stancarci."
+  },
+  {
+    "month": 3,
+    "day": 25,
+    "saint": "Annunciazione del Signore",
+    "quote": "Ecco la serva del Signore: avvenga per me secondo la tua parola.",
+    "attribution": "Luca 1,38",
+    "prayer": "Maria, donaci la grazia di dire sì alla volontà di Dio."
+  },
+  {
+    "month": 3,
+    "day": 26,
+    "saint": "San Ludgero di Münster",
+    "quote": "Evangelizzare è il dovere più urgente della Chiesa.",
+    "attribution": "San Ludgero",
+    "prayer": "San Ludgero, rinnova in noi lo slancio missionario."
+  },
+  {
+    "month": 3,
+    "day": 27,
+    "saint": "San Ruperto di Salisburgo",
+    "quote": "Portare la luce di Cristo dove regnano le tenebre è la nostra missione.",
+    "attribution": "San Ruperto",
+    "prayer": "San Ruperto, illumina le nostre tenebre con la fede."
+  },
+  {
+    "month": 3,
+    "day": 28,
+    "saint": "San Sisto III papa",
+    "quote": "La bellezza della liturgia eleva l'anima a Dio.",
+    "attribution": "San Sisto III",
+    "prayer": "San Sisto, aiutaci a vivere la liturgia con fervore."
+  },
+  {
+    "month": 3,
+    "day": 29,
+    "saint": "San Secondo di Asti",
+    "quote": "Il martirio è la suprema testimonianza dell'amore.",
+    "attribution": "San Secondo",
+    "prayer": "San Secondo, donaci la forza della testimonianza."
+  },
+  {
+    "month": 3,
+    "day": 30,
+    "saint": "San Leonardo Murialdo",
+    "quote": "L'educazione è opera d'amore, e l'amore è paziente.",
+    "attribution": "San Leonardo Murialdo",
+    "prayer": "San Leonardo, benedici chi educa i giovani."
+  },
+  {
+    "month": 3,
+    "day": 31,
+    "saint": "San Beniamino diacono e martire",
+    "quote": "La morte per Cristo è vita eterna.",
+    "attribution": "San Beniamino",
+    "prayer": "San Beniamino, donaci la speranza della vita eterna."
+  },
+  {
+    "month": 4,
+    "day": 1,
+    "saint": "Sant'Ugo di Grenoble",
+    "quote": "La preghiera è l'arma più potente del cristiano.",
+    "attribution": "Sant'Ugo di Grenoble",
+    "prayer": "Sant'Ugo, insegnaci la perseveranza nella preghiera."
+  },
+  {
+    "month": 4,
+    "day": 2,
+    "saint": "San Francesco di Paola",
+    "quote": "La carità è il vincolo della perfezione.",
+    "attribution": "San Francesco di Paola",
+    "prayer": "San Francesco, insegnaci la penitenza e la carità."
+  },
+  {
+    "month": 4,
+    "day": 3,
+    "saint": "San Riccardo di Chichester",
+    "quote": "Signore, fa' che ti conosciamo più chiaramente, ti amiamo più ardentemente, ti seguiamo più da vicino.",
+    "attribution": "San Riccardo di Chichester",
+    "prayer": "San Riccardo, avvicina il nostro cuore a Cristo."
+  },
+  {
+    "month": 4,
+    "day": 4,
+    "saint": "Sant'Isidoro di Siviglia",
+    "quote": "La preghiera purifica, la lettura istruisce; chi vuol vivere con Dio, preghi e legga.",
+    "attribution": "Sant'Isidoro di Siviglia",
+    "prayer": "Sant'Isidoro, guidaci nello studio e nella preghiera."
+  },
+  {
+    "month": 4,
+    "day": 5,
+    "saint": "San Vincenzo Ferreri",
+    "quote": "Chi teme il giudizio di Dio, non temerà il giudizio degli uomini.",
+    "attribution": "San Vincenzo Ferreri",
+    "prayer": "San Vincenzo, preparaci all'incontro con il Signore."
+  },
+  {
+    "month": 4,
+    "day": 6,
+    "saint": "San Pietro di Verona",
+    "quote": "Credo in Dio, Padre onnipotente — queste furono le sue ultime parole scritte col sangue.",
+    "attribution": "San Pietro di Verona",
+    "prayer": "San Pietro martire, confermaci nella fede fino alla fine."
+  },
+  {
+    "month": 4,
+    "day": 7,
+    "saint": "San Giovanni Battista de La Salle",
+    "quote": "Toccare i cuori è l'opera più grande che un educatore possa fare.",
+    "attribution": "San Giovanni Battista de La Salle",
+    "prayer": "San Giovanni Battista, benedici insegnanti e studenti."
+  },
+  {
+    "month": 4,
+    "day": 8,
+    "saint": "San Dionigi di Corinto",
+    "quote": "La Chiesa è una nel vincolo della carità.",
+    "attribution": "San Dionigi",
+    "prayer": "San Dionigi, mantienici uniti nella carità ecclesiale."
+  },
+  {
+    "month": 4,
+    "day": 9,
+    "saint": "Santa Maria di Cleofa",
+    "quote": "Seguire Gesù fin sotto la croce è la prova dell'amore vero.",
+    "attribution": "Santa Maria di Cleofa",
+    "prayer": "Santa Maria, donaci la fedeltà che non teme la croce."
+  },
+  {
+    "month": 4,
+    "day": 10,
+    "saint": "San Michele dei Santi",
+    "quote": "L'amore verso la Santissima Trinità è il culmine della vita spirituale.",
+    "attribution": "San Michele dei Santi",
+    "prayer": "San Michele, elevaci alla contemplazione del mistero trinitario."
+  },
+  {
+    "month": 4,
+    "day": 11,
+    "saint": "San Stanislao vescovo e martire",
+    "quote": "Non si può tacere quando la verità è in pericolo.",
+    "attribution": "San Stanislao",
+    "prayer": "San Stanislao, donaci il coraggio profetico."
+  },
+  {
+    "month": 4,
+    "day": 12,
+    "saint": "San Giuseppe Moscati",
+    "quote": "Non la scienza, ma la carità ha trasformato il mondo.",
+    "attribution": "San Giuseppe Moscati",
+    "prayer": "San Giuseppe Moscati, benedici i medici e i malati."
+  },
+  {
+    "month": 4,
+    "day": 13,
+    "saint": "San Martino I papa e martire",
+    "quote": "Per la verità della fede sono pronto a soffrire ogni cosa.",
+    "attribution": "San Martino I",
+    "prayer": "San Martino, donaci fedeltà alla verità."
+  },
+  {
+    "month": 4,
+    "day": 14,
+    "saint": "San Lamberto di Lione",
+    "quote": "La mansuetudine conquista più della forza.",
+    "attribution": "San Lamberto",
+    "prayer": "San Lamberto, insegnaci la mansuetudine cristiana."
+  },
+  {
+    "month": 4,
+    "day": 15,
+    "saint": "San Damiano de Veuster",
+    "quote": "Io sono un lebbroso tra i lebbrosi, per portare loro Cristo.",
+    "attribution": "San Damiano de Veuster",
+    "prayer": "San Damiano, donaci il coraggio di servire i più emarginati."
+  },
+  {
+    "month": 4,
+    "day": 16,
+    "saint": "Santa Bernadette Soubirous",
+    "quote": "La Signora mi ha detto: Non ti prometto di farti felice in questo mondo, ma nell'altro.",
+    "attribution": "Santa Bernadette",
+    "prayer": "Santa Bernadette, insegnaci l'umiltà e la fiducia in Maria."
+  },
+  {
+    "month": 4,
+    "day": 17,
+    "saint": "San Roberto di La Chaise-Dieu",
+    "quote": "Il silenzio è la lingua di Dio; tutto il resto è cattiva traduzione.",
+    "attribution": "Tradizione monastica",
+    "prayer": "San Roberto, guidaci nel silenzio che ascolta Dio."
+  },
+  {
+    "month": 4,
+    "day": 18,
+    "saint": "San Galdino arcivescovo",
+    "quote": "Predicare la Parola di Dio è il primo dovere del vescovo.",
+    "attribution": "San Galdino",
+    "prayer": "San Galdino, rinnova nei pastori lo zelo della predicazione."
+  },
+  {
+    "month": 4,
+    "day": 19,
+    "saint": "Sant'Emma di Sassonia",
+    "quote": "Dare ai poveri è prestare a Dio.",
+    "attribution": "Sant'Emma",
+    "prayer": "Sant'Emma, insegnaci la generosità che viene dalla fede."
+  },
+  {
+    "month": 4,
+    "day": 20,
+    "saint": "Santa Agnese di Montepulciano",
+    "quote": "L'Eucaristia è il sole della vita spirituale.",
+    "attribution": "Santa Agnese di Montepulciano",
+    "prayer": "Santa Agnese, accresci in noi l'amore per l'Eucaristia."
+  },
+  {
+    "month": 4,
+    "day": 21,
+    "saint": "Sant'Anselmo d'Aosta",
+    "quote": "Credo per comprendere, non comprendo per credere.",
+    "attribution": "Sant'Anselmo d'Aosta",
+    "prayer": "Sant'Anselmo, illumina la nostra ragione con la fede."
+  },
+  {
+    "month": 4,
+    "day": 22,
+    "saint": "San Leonida di Alessandria",
+    "quote": "Il padre cristiano educa i figli alla fede con l'esempio prima che con le parole.",
+    "attribution": "San Leonida",
+    "prayer": "San Leonida, benedici i padri nella loro missione educativa."
+  },
+  {
+    "month": 4,
+    "day": 23,
+    "saint": "San Giorgio martire",
+    "quote": "Il drago dell'ingiustizia si vince con la spada della fede.",
+    "attribution": "Tradizione su San Giorgio",
+    "prayer": "San Giorgio, proteggici dal male e donaci il tuo coraggio."
+  },
+  {
+    "month": 4,
+    "day": 24,
+    "saint": "San Fedele da Sigmaringen",
+    "quote": "La fede cattolica è il tesoro più prezioso che possiedo.",
+    "attribution": "San Fedele",
+    "prayer": "San Fedele, custodisci in noi il tesoro della fede."
+  },
+  {
+    "month": 4,
+    "day": 25,
+    "saint": "San Marco evangelista",
+    "quote": "Inizio del Vangelo di Gesù, Cristo, Figlio di Dio.",
+    "attribution": "Marco 1,1",
+    "prayer": "San Marco, aiutaci ad annunciare il Vangelo con coraggio."
+  },
+  {
+    "month": 4,
+    "day": 26,
+    "saint": "San Cleto papa",
+    "quote": "La successione apostolica è garanzia della vera fede.",
+    "attribution": "San Cleto",
+    "prayer": "San Cleto, proteggi la Chiesa fondata sugli apostoli."
+  },
+  {
+    "month": 4,
+    "day": 27,
+    "saint": "Santa Zita di Lucca",
+    "quote": "Il lavoro fatto per amore di Dio diventa preghiera.",
+    "attribution": "Santa Zita",
+    "prayer": "Santa Zita, santifica il nostro lavoro quotidiano."
+  },
+  {
+    "month": 4,
+    "day": 28,
+    "saint": "San Pietro Chanel",
+    "quote": "La missione richiede pazienza: il seme produce frutto a suo tempo.",
+    "attribution": "San Pietro Chanel",
+    "prayer": "San Pietro, benedici i missionari in tutto il mondo."
+  },
+  {
+    "month": 4,
+    "day": 29,
+    "saint": "Santa Caterina da Siena",
+    "quote": "Siate chi Dio intende che siate, e infiammerete il mondo intero.",
+    "attribution": "Santa Caterina da Siena",
+    "prayer": "Santa Caterina, donaci il fuoco del tuo amore per la Chiesa."
+  },
+  {
+    "month": 4,
+    "day": 30,
+    "saint": "San Pio V papa",
+    "quote": "Signore, accresci le mie sofferenze ma accresci anche la mia pazienza.",
+    "attribution": "San Pio V",
+    "prayer": "San Pio V, donaci la fedeltà alla tradizione della Chiesa."
+  },
+  {
+    "month": 5,
+    "day": 1,
+    "saint": "San Giuseppe lavoratore",
+    "quote": "Il lavoro è partecipazione all'opera creatrice di Dio.",
+    "attribution": "San Giovanni Paolo II",
+    "prayer": "San Giuseppe, benedici il lavoro delle nostre mani."
+  },
+  {
+    "month": 5,
+    "day": 2,
+    "saint": "Sant'Atanasio",
+    "quote": "Cristo si è fatto uomo perché noi potessimo divenire Dio.",
+    "attribution": "Sant'Atanasio",
+    "prayer": "Sant'Atanasio, confermaci nella vera fede."
+  },
+  {
+    "month": 5,
+    "day": 3,
+    "saint": "Santi Filippo e Giacomo apostoli",
+    "quote": "Signore, mostraci il Padre e ci basta.",
+    "attribution": "Giovanni 14,8",
+    "prayer": "Santi Filippo e Giacomo, mostrateci il volto del Padre."
+  },
+  {
+    "month": 5,
+    "day": 4,
+    "saint": "San Floriano di Lorch",
+    "quote": "Il fuoco della fede non si spegne neppure con l'acqua.",
+    "attribution": "San Floriano",
+    "prayer": "San Floriano, proteggi i nostri fratelli dal fuoco e dal male."
+  },
+  {
+    "month": 5,
+    "day": 5,
+    "saint": "Sant'Ilario di Arles",
+    "quote": "La parola del vescovo deve essere luce per il gregge.",
+    "attribution": "Sant'Ilario di Arles",
+    "prayer": "Sant'Ilario, illumina i pastori della Chiesa."
+  },
+  {
+    "month": 5,
+    "day": 6,
+    "saint": "San Domenico Savio",
+    "quote": "La morte ma non peccati!",
+    "attribution": "San Domenico Savio",
+    "prayer": "San Domenico, proteggi la gioventù nella purezza."
+  },
+  {
+    "month": 5,
+    "day": 7,
+    "saint": "Santa Rosa Venerini",
+    "quote": "Educare le donne è cambiare il mondo.",
+    "attribution": "Santa Rosa Venerini",
+    "prayer": "Santa Rosa, benedici l'opera educativa nella Chiesa."
+  },
+  {
+    "month": 5,
+    "day": 8,
+    "saint": "Santa Maria Madre della Chiesa",
+    "quote": "Fate quello che Egli vi dirà.",
+    "attribution": "Giovanni 2,5",
+    "prayer": "Maria Madre della Chiesa, guidaci verso tuo Figlio."
+  },
+  {
+    "month": 5,
+    "day": 9,
+    "saint": "San Pacomio",
+    "quote": "La regola della vita comune è il Vangelo stesso.",
+    "attribution": "San Pacomio",
+    "prayer": "San Pacomio, insegnaci la vita fraterna secondo il Vangelo."
+  },
+  {
+    "month": 5,
+    "day": 10,
+    "saint": "San Giovanni d'Avila",
+    "quote": "Un'Ave Maria detta bene vale più di cento dette in fretta.",
+    "attribution": "San Giovanni d'Avila",
+    "prayer": "San Giovanni, insegnaci a pregare con il cuore."
+  },
+  {
+    "month": 5,
+    "day": 11,
+    "saint": "Sant'Ignazio di Laconi",
+    "quote": "La questua più grande è quella dell'amore di Dio.",
+    "attribution": "Sant'Ignazio di Laconi",
+    "prayer": "Sant'Ignazio, insegnaci la semplicità e l'umiltà."
+  },
+  {
+    "month": 5,
+    "day": 12,
+    "saint": "Santi Nereo e Achilleo",
+    "quote": "Il battesimo ci ha resi soldati di Cristo.",
+    "attribution": "Santi Nereo e Achilleo",
+    "prayer": "Santi Nereo e Achilleo, rinnovateci nella grazia battesimale."
+  },
+  {
+    "month": 5,
+    "day": 13,
+    "saint": "Beata Vergine Maria di Fatima",
+    "quote": "Il mio Cuore Immacolato sarà il tuo rifugio e la via che ti condurrà a Dio.",
+    "attribution": "La Madonna a Fatima",
+    "prayer": "Maria di Fatima, consacriamo a te il nostro cuore."
+  },
+  {
+    "month": 5,
+    "day": 14,
+    "saint": "San Mattia apostolo",
+    "quote": "Tu, Signore, che conosci il cuore di tutti, mostraci chi hai scelto.",
+    "attribution": "Atti 1,24",
+    "prayer": "San Mattia, aiutaci a rispondere alla chiamata di Dio."
+  },
+  {
+    "month": 5,
+    "day": 15,
+    "saint": "Sant'Isidoro l'Agricoltore",
+    "quote": "Il contadino che prega mentre ara, lavora due volte.",
+    "attribution": "Sant'Isidoro l'Agricoltore",
+    "prayer": "Sant'Isidoro, benedici la terra e chi la coltiva."
+  },
+  {
+    "month": 5,
+    "day": 16,
+    "saint": "San Simone Stock",
+    "quote": "Lo Scapolare è segno della protezione materna di Maria.",
+    "attribution": "San Simone Stock",
+    "prayer": "San Simone, coprici con il manto della Madonna."
+  },
+  {
+    "month": 5,
+    "day": 17,
+    "saint": "San Pasquale Baylon",
+    "quote": "L'Eucaristia è il paradiso in terra.",
+    "attribution": "San Pasquale Baylon",
+    "prayer": "San Pasquale, accresci in noi la devozione eucaristica."
+  },
+  {
+    "month": 5,
+    "day": 18,
+    "saint": "San Giovanni I papa e martire",
+    "quote": "Meglio morire liberi nella fede che vivere schiavi dell'eresia.",
+    "attribution": "San Giovanni I",
+    "prayer": "San Giovanni, donaci libertà e fortezza nella fede."
+  },
+  {
+    "month": 5,
+    "day": 19,
+    "saint": "San Celestino V papa",
+    "quote": "Chi nulla possiede, tutto ha in Dio.",
+    "attribution": "San Celestino V",
+    "prayer": "San Celestino, insegnaci il distacco dalle cose del mondo."
+  },
+  {
+    "month": 5,
+    "day": 20,
+    "saint": "San Bernardino da Siena",
+    "quote": "Il Nome di Gesù è miele nella bocca, melodia nell'orecchio, giubilo nel cuore.",
+    "attribution": "San Bernardino da Siena",
+    "prayer": "San Bernardino, insegnaci a invocare il santo Nome di Gesù."
+  },
+  {
+    "month": 5,
+    "day": 21,
+    "saint": "San Cristoforo Magallanes",
+    "quote": "Sono innocente e muoio innocente. Vi perdono e chiedo a Dio che il mio sangue serva per la pace.",
+    "attribution": "San Cristoforo Magallanes",
+    "prayer": "San Cristoforo, donaci lo spirito del perdono."
+  },
+  {
+    "month": 5,
+    "day": 22,
+    "saint": "Santa Rita da Cascia",
+    "quote": "Signore, fammi soffrire e amare, soffrire per amare, soffrire e amare senza limiti.",
+    "attribution": "Santa Rita da Cascia",
+    "prayer": "Santa Rita, avvocata delle cause impossibili, intercedi per noi."
+  },
+  {
+    "month": 5,
+    "day": 23,
+    "saint": "San Giovanni Battista de' Rossi",
+    "quote": "Il confessionale è il luogo dove le anime rinascono.",
+    "attribution": "San Giovanni Battista de' Rossi",
+    "prayer": "San Giovanni Battista, rinnova in noi il desiderio della confessione."
+  },
+  {
+    "month": 5,
+    "day": 24,
+    "saint": "Beata Vergine Maria Ausiliatrice",
+    "quote": "Maria è l'aiuto dei cristiani nei momenti più difficili.",
+    "attribution": "San Giovanni Bosco",
+    "prayer": "Maria Ausiliatrice, soccorrici nelle nostre necessità."
+  },
+  {
+    "month": 5,
+    "day": 25,
+    "saint": "San Beda il Venerabile",
+    "quote": "Cristo è la stella del mattino che, quando la notte di questo mondo sta passando, promette la luce della vita eterna.",
+    "attribution": "San Beda il Venerabile",
+    "prayer": "San Beda, illuminaci con la sapienza delle Scritture."
+  },
+  {
+    "month": 5,
+    "day": 26,
+    "saint": "San Filippo Neri",
+    "quote": "State buoni, se potete.",
+    "attribution": "San Filippo Neri",
+    "prayer": "San Filippo, donaci la gioia e l'umorismo dei santi."
+  },
+  {
+    "month": 5,
+    "day": 27,
+    "saint": "Sant'Agostino di Canterbury",
+    "quote": "La missione è portare Cristo dove non è ancora conosciuto.",
+    "attribution": "Sant'Agostino di Canterbury",
+    "prayer": "Sant'Agostino, rinnova lo slancio missionario della Chiesa."
+  },
+  {
+    "month": 5,
+    "day": 28,
+    "saint": "San Germano di Parigi",
+    "quote": "La carità verso i poveri è la porta del cielo.",
+    "attribution": "San Germano",
+    "prayer": "San Germano, apri il nostro cuore ai bisognosi."
+  },
+  {
+    "month": 5,
+    "day": 29,
+    "saint": "San Paolo VI papa",
+    "quote": "L'uomo contemporaneo ascolta più volentieri i testimoni che i maestri.",
+    "attribution": "San Paolo VI",
+    "prayer": "San Paolo VI, guidaci nel rinnovamento della Chiesa."
+  },
+  {
+    "month": 5,
+    "day": 30,
+    "saint": "Santa Giovanna d'Arco",
+    "quote": "Io non ho paura: sono nata per questo.",
+    "attribution": "Santa Giovanna d'Arco",
+    "prayer": "Santa Giovanna, donaci il coraggio di seguire la voce di Dio."
+  },
+  {
+    "month": 5,
+    "day": 31,
+    "saint": "Visitazione della Beata Vergine Maria",
+    "quote": "Benedetta tu fra le donne, e benedetto il frutto del tuo grembo!",
+    "attribution": "Luca 1,42",
+    "prayer": "Maria, insegnaci a portare Cristo agli altri con gioia."
+  },
+  {
+    "month": 6,
+    "day": 1,
+    "saint": "San Giustino martire",
+    "quote": "Noi non possiamo vivere senza la Domenica.",
+    "attribution": "Tradizione dei martiri di Abitene",
+    "prayer": "San Giustino, rinnova in noi l'amore per la verità."
+  },
+  {
+    "month": 6,
+    "day": 2,
+    "saint": "Santi Marcellino e Pietro",
+    "quote": "Nella sofferenza per Cristo troviamo la vera gloria.",
+    "attribution": "Santi Marcellino e Pietro",
+    "prayer": "Santi Marcellino e Pietro, donateci la fortezza dei martiri."
+  },
+  {
+    "month": 6,
+    "day": 3,
+    "saint": "San Carlo Lwanga e compagni",
+    "quote": "Un cristiano sa morire ma non rinnegare la propria fede.",
+    "attribution": "San Carlo Lwanga",
+    "prayer": "San Carlo, proteggi i cristiani perseguitati."
+  },
+  {
+    "month": 6,
+    "day": 4,
+    "saint": "San Quirino di Siscia",
+    "quote": "La persecuzione non può nulla contro chi è radicato in Cristo.",
+    "attribution": "San Quirino",
+    "prayer": "San Quirino, radicaci fermamente in Cristo."
+  },
+  {
+    "month": 6,
+    "day": 5,
+    "saint": "San Bonifacio",
+    "quote": "Non dobbiamo essere cani muti, né osservatori silenziosi.",
+    "attribution": "San Bonifacio",
+    "prayer": "San Bonifacio, donaci il coraggio dell'evangelizzazione."
+  },
+  {
+    "month": 6,
+    "day": 6,
+    "saint": "San Norberto",
+    "quote": "La riforma della Chiesa passa attraverso la vita comune e la preghiera.",
+    "attribution": "San Norberto",
+    "prayer": "San Norberto, rinnova la vita consacrata nella Chiesa."
+  },
+  {
+    "month": 6,
+    "day": 7,
+    "saint": "Sacratissimo Cuore di Gesù",
+    "quote": "Imparate da me, che sono mite e umile di cuore.",
+    "attribution": "Matteo 11,29",
+    "prayer": "Cuore di Gesù, rendi il nostro cuore simile al tuo."
+  },
+  {
+    "month": 6,
+    "day": 8,
+    "saint": "Cuore Immacolato di Maria",
+    "quote": "Maria custodiva tutte queste cose, meditandole nel suo cuore.",
+    "attribution": "Luca 2,19",
+    "prayer": "Cuore Immacolato di Maria, sii il nostro rifugio."
+  },
+  {
+    "month": 6,
+    "day": 9,
+    "saint": "Sant'Efrem il Siro",
+    "quote": "Signore, nel tuo mare nessuno può naufragare, perché anche i flutti sono pieni della tua misericordia.",
+    "attribution": "Sant'Efrem il Siro",
+    "prayer": "Sant'Efrem, insegnaci la lode e la poesia della fede."
+  },
+  {
+    "month": 6,
+    "day": 10,
+    "saint": "Beata Vergine Maria Madre della Chiesa",
+    "quote": "Ecco tua madre — ecco tuo figlio.",
+    "attribution": "Giovanni 19,26-27",
+    "prayer": "Maria Madre nostra, custodisci la famiglia della Chiesa."
+  },
+  {
+    "month": 6,
+    "day": 11,
+    "saint": "San Barnaba apostolo",
+    "quote": "Era infatti un uomo buono, pieno di Spirito Santo e di fede.",
+    "attribution": "Atti 11,24",
+    "prayer": "San Barnaba, riempici di Spirito Santo e di bontà."
+  },
+  {
+    "month": 6,
+    "day": 12,
+    "saint": "San Leone III papa",
+    "quote": "Difendere la fede è il primo compito del successore di Pietro.",
+    "attribution": "San Leone III",
+    "prayer": "San Leone, proteggi il Papa e la Santa Sede."
+  },
+  {
+    "month": 6,
+    "day": 13,
+    "saint": "Sant'Antonio di Padova",
+    "quote": "Le azioni parlano più delle parole; siano le parole insegnamento e le azioni dimostrazione.",
+    "attribution": "Sant'Antonio di Padova",
+    "prayer": "Sant'Antonio, aiutaci a ritrovare ciò che abbiamo perduto."
+  },
+  {
+    "month": 6,
+    "day": 14,
+    "saint": "Sant'Eliseo profeta",
+    "quote": "Dov'è il Signore, Dio di Elia?",
+    "attribution": "2 Re 2,14",
+    "prayer": "Sant'Eliseo, rinnova in noi lo spirito profetico."
+  },
+  {
+    "month": 6,
+    "day": 15,
+    "saint": "San Vito martire",
+    "quote": "Preferiamo adorare il Dio vivo piuttosto che i vostri idoli.",
+    "attribution": "San Vito",
+    "prayer": "San Vito, liberaci dal male e dalla tentazione."
+  },
+  {
+    "month": 6,
+    "day": 16,
+    "saint": "Santi Quirico e Giulitta",
+    "quote": "Anche un bambino può testimoniare la fede con la vita.",
+    "attribution": "Santi Quirico e Giulitta",
+    "prayer": "Santi Quirico e Giulitta, proteggete i bambini e le mamme."
+  },
+  {
+    "month": 6,
+    "day": 17,
+    "saint": "San Ranieri di Pisa",
+    "quote": "La conversione è un cammino che dura tutta la vita.",
+    "attribution": "San Ranieri",
+    "prayer": "San Ranieri, accompagnaci nel cammino della conversione."
+  },
+  {
+    "month": 6,
+    "day": 18,
+    "saint": "San Gregorio Barbarigo",
+    "quote": "Il seminario è il cuore della diocesi.",
+    "attribution": "San Gregorio Barbarigo",
+    "prayer": "San Gregorio, suscita nuove vocazioni al sacerdozio."
+  },
+  {
+    "month": 6,
+    "day": 19,
+    "saint": "San Romualdo",
+    "quote": "Siedi nella tua cella come nel paradiso; getta alle spalle il mondo intero.",
+    "attribution": "San Romualdo",
+    "prayer": "San Romualdo, guidaci nella contemplazione silenziosa."
+  },
+  {
+    "month": 6,
+    "day": 20,
+    "saint": "Sant'Ettore Silvano",
+    "quote": "La santità è la misura della carità che viviamo.",
+    "attribution": "Sant'Ettore",
+    "prayer": "Sant'Ettore, insegnaci a misurare la vita con la carità."
+  },
+  {
+    "month": 6,
+    "day": 21,
+    "saint": "San Luigi Gonzaga",
+    "quote": "Che cosa ci importa dell'eterno? È la sola domanda seria.",
+    "attribution": "San Luigi Gonzaga",
+    "prayer": "San Luigi, custodisci la purezza della gioventù."
+  },
+  {
+    "month": 6,
+    "day": 22,
+    "saint": "San Paolino di Nola",
+    "quote": "Tutto ciò che diamo ai poveri lo prestiamo a Dio.",
+    "attribution": "San Paolino di Nola",
+    "prayer": "San Paolino, insegnaci la carità generosa."
+  },
+  {
+    "month": 6,
+    "day": 23,
+    "saint": "San Giuseppe Cafasso",
+    "quote": "Il prete è un uomo mangiato dal popolo.",
+    "attribution": "San Giuseppe Cafasso",
+    "prayer": "San Giuseppe Cafasso, santifica i nostri sacerdoti."
+  },
+  {
+    "month": 6,
+    "day": 24,
+    "saint": "Natività di San Giovanni Battista",
+    "quote": "Egli deve crescere; io, invece, diminuire.",
+    "attribution": "Giovanni 3,30",
+    "prayer": "San Giovanni Battista, preparaci a incontrare il Signore."
+  },
+  {
+    "month": 6,
+    "day": 25,
+    "saint": "San Guglielmo di Vercelli",
+    "quote": "La montagna più alta si scala con la preghiera.",
+    "attribution": "San Guglielmo",
+    "prayer": "San Guglielmo, elevaci verso le cime della santità."
+  },
+  {
+    "month": 6,
+    "day": 26,
+    "saint": "San Josemaría Escrivá",
+    "quote": "Santificatevi nel lavoro, santificate il lavoro, santificate con il lavoro.",
+    "attribution": "San Josemaría Escrivá",
+    "prayer": "San Josemaría, aiutaci a santificare la vita quotidiana."
+  },
+  {
+    "month": 6,
+    "day": 27,
+    "saint": "San Cirillo d'Alessandria",
+    "quote": "Maria è veramente Madre di Dio, Theotokos.",
+    "attribution": "San Cirillo d'Alessandria",
+    "prayer": "San Cirillo, confermaci nella retta dottrina."
+  },
+  {
+    "month": 6,
+    "day": 28,
+    "saint": "Sant'Ireneo di Lione",
+    "quote": "La gloria di Dio è l'uomo vivente, e la vita dell'uomo è la visione di Dio.",
+    "attribution": "Sant'Ireneo di Lione",
+    "prayer": "Sant'Ireneo, donaci la pienezza della vita in Dio."
+  },
+  {
+    "month": 6,
+    "day": 29,
+    "saint": "Santi Pietro e Paolo",
+    "quote": "Tu sei Pietro, e su questa pietra edificherò la mia Chiesa.",
+    "attribution": "Matteo 16,18",
+    "prayer": "Santi Pietro e Paolo, proteggete e guidate la Chiesa."
+  },
+  {
+    "month": 6,
+    "day": 30,
+    "saint": "Santi Primi Martiri della Chiesa di Roma",
+    "quote": "Il sangue dei martiri è il fondamento della Chiesa.",
+    "attribution": "Tradizione cristiana",
+    "prayer": "Santi Martiri di Roma, intercedete per la Chiesa perseguitata."
+  },
+  {
+    "month": 7,
+    "day": 1,
+    "saint": "Sant'Aronne",
+    "quote": "Dio sceglie i suoi ministri secondo il suo cuore, non secondo la nostra misura.",
+    "attribution": "Tradizione biblica",
+    "prayer": "Sant'Aronne, guida i sacerdoti nel servizio al Signore."
+  },
+  {
+    "month": 7,
+    "day": 2,
+    "saint": "San Bernardino Realino",
+    "quote": "Chi ama Dio non può non amare il prossimo.",
+    "attribution": "San Bernardino Realino",
+    "prayer": "San Bernardino, insegnaci l'amore che unisce Dio e il prossimo."
+  },
+  {
+    "month": 7,
+    "day": 3,
+    "saint": "San Tommaso apostolo",
+    "quote": "Mio Signore e mio Dio!",
+    "attribution": "Giovanni 20,28",
+    "prayer": "San Tommaso, trasforma i nostri dubbi in fede ardente."
+  },
+  {
+    "month": 7,
+    "day": 4,
+    "saint": "Santa Elisabetta di Portogallo",
+    "quote": "La pace tra i popoli si costruisce con la preghiera e la giustizia.",
+    "attribution": "Santa Elisabetta di Portogallo",
+    "prayer": "Santa Elisabetta, donaci la grazia di essere costruttori di pace."
+  },
+  {
+    "month": 7,
+    "day": 5,
+    "saint": "Sant'Antonio Maria Zaccaria",
+    "quote": "Cristo crocifisso è la nostra sapienza e la nostra forza.",
+    "attribution": "Sant'Antonio Maria Zaccaria",
+    "prayer": "Sant'Antonio Maria, rinnova in noi l'amore per Cristo crocifisso."
+  },
+  {
+    "month": 7,
+    "day": 6,
+    "saint": "Santa Maria Goretti",
+    "quote": "Lo perdono e lo voglio con me in Paradiso.",
+    "attribution": "Santa Maria Goretti",
+    "prayer": "Santa Maria Goretti, custodisci la purezza e insegnaci il perdono."
+  },
+  {
+    "month": 7,
+    "day": 7,
+    "saint": "San Claudio di Besançon",
+    "quote": "Il pastore deve conoscere l'odore delle sue pecore.",
+    "attribution": "San Claudio",
+    "prayer": "San Claudio, avvicina i pastori al loro gregge."
+  },
+  {
+    "month": 7,
+    "day": 8,
+    "saint": "San Procopio di Cesarea",
+    "quote": "Chi muore per Cristo, vive in eterno.",
+    "attribution": "San Procopio",
+    "prayer": "San Procopio, donaci la speranza della vita eterna."
+  },
+  {
+    "month": 7,
+    "day": 9,
+    "saint": "Santa Veronica Giuliani",
+    "quote": "L'amore non è amato! L'amore non è amato!",
+    "attribution": "Santa Veronica Giuliani",
+    "prayer": "Santa Veronica, insegnaci ad amare l'Amore."
+  },
+  {
+    "month": 7,
+    "day": 10,
+    "saint": "Sant'Amelio e compagni",
+    "quote": "L'amicizia fondata su Cristo è eterna.",
+    "attribution": "Tradizione cristiana",
+    "prayer": "Sant'Amelio, benedici le nostre amicizie nella fede."
+  },
+  {
+    "month": 7,
+    "day": 11,
+    "saint": "San Benedetto da Norcia",
+    "quote": "Ora et labora — Prega e lavora.",
+    "attribution": "San Benedetto da Norcia",
+    "prayer": "San Benedetto, insegnaci l'equilibrio tra preghiera e lavoro."
+  },
+  {
+    "month": 7,
+    "day": 12,
+    "saint": "San Giovanni Gualberto",
+    "quote": "Il perdono dei nemici è la vittoria più grande.",
+    "attribution": "San Giovanni Gualberto",
+    "prayer": "San Giovanni, donaci la grazia di perdonare i nemici."
+  },
+  {
+    "month": 7,
+    "day": 13,
+    "saint": "Sant'Enrico imperatore",
+    "quote": "Il potere è servizio, non dominio.",
+    "attribution": "Sant'Enrico",
+    "prayer": "Sant'Enrico, ispira i governanti alla giustizia e al servizio."
+  },
+  {
+    "month": 7,
+    "day": 14,
+    "saint": "San Camillo de Lellis",
+    "quote": "Più cuore in quelle mani! Sono i malati il corpo di Cristo.",
+    "attribution": "San Camillo de Lellis",
+    "prayer": "San Camillo, benedici chi assiste i malati e i sofferenti."
+  },
+  {
+    "month": 7,
+    "day": 15,
+    "saint": "San Bonaventura",
+    "quote": "Se vuoi salire, conduci una vita umile. Se vuoi costruire alto, pensa prima al fondamento dell'umiltà.",
+    "attribution": "San Bonaventura",
+    "prayer": "San Bonaventura, guidaci nella contemplazione della sapienza divina."
+  },
+  {
+    "month": 7,
+    "day": 16,
+    "saint": "Beata Vergine Maria del Carmelo",
+    "quote": "Il Carmelo è il giardino dove fiorisce l'unione con Dio.",
+    "attribution": "Tradizione carmelitana",
+    "prayer": "Madonna del Carmelo, coprici con il tuo santo Scapolare."
+  },
+  {
+    "month": 7,
+    "day": 17,
+    "saint": "Sant'Alessio mendicante",
+    "quote": "Chi tutto lascia per Dio, tutto ritrova in Dio.",
+    "attribution": "Sant'Alessio",
+    "prayer": "Sant'Alessio, insegnaci il distacco che libera il cuore."
+  },
+  {
+    "month": 7,
+    "day": 18,
+    "saint": "San Federico di Utrecht",
+    "quote": "La verità va proclamata anche quando costa la vita.",
+    "attribution": "San Federico",
+    "prayer": "San Federico, donaci il coraggio della verità."
+  },
+  {
+    "month": 7,
+    "day": 19,
+    "saint": "San Simmaco papa",
+    "quote": "La difesa dei deboli è il dovere della Chiesa.",
+    "attribution": "San Simmaco",
+    "prayer": "San Simmaco, ispira la Chiesa nella difesa dei poveri."
+  },
+  {
+    "month": 7,
+    "day": 20,
+    "saint": "Sant'Apollinare di Ravenna",
+    "quote": "La fede si trasmette con la testimonianza prima che con le parole.",
+    "attribution": "Sant'Apollinare",
+    "prayer": "Sant'Apollinare, facci testimoni credibili del Vangelo."
+  },
+  {
+    "month": 7,
+    "day": 21,
+    "saint": "San Lorenzo da Brindisi",
+    "quote": "La Parola di Dio è luce, fuoco, martello che spezza la roccia.",
+    "attribution": "San Lorenzo da Brindisi",
+    "prayer": "San Lorenzo, donaci la sapienza della Parola."
+  },
+  {
+    "month": 7,
+    "day": 22,
+    "saint": "Santa Maria Maddalena",
+    "quote": "Ho visto il Signore e mi ha detto queste cose.",
+    "attribution": "Giovanni 20,18",
+    "prayer": "Santa Maria Maddalena, insegnaci l'amore fedele per Cristo risorto."
+  },
+  {
+    "month": 7,
+    "day": 23,
+    "saint": "Santa Brigida di Svezia",
+    "quote": "Beati coloro che ascoltano la Parola del mio Figlio e la mettono in pratica.",
+    "attribution": "Rivelazioni di Santa Brigida",
+    "prayer": "Santa Brigida, patrona d'Europa, intercedi per il nostro continente."
+  },
+  {
+    "month": 7,
+    "day": 24,
+    "saint": "San Charbel Makhlouf",
+    "quote": "Il silenzio è la lingua dei forti e la preghiera del sapiente.",
+    "attribution": "San Charbel",
+    "prayer": "San Charbel, guidaci nel silenzio che incontra Dio."
+  },
+  {
+    "month": 7,
+    "day": 25,
+    "saint": "San Giacomo apostolo",
+    "quote": "Sì, possiamo bere il calice che tu bevi.",
+    "attribution": "Marco 10,39",
+    "prayer": "San Giacomo, donaci la generosità di seguire Cristo fino in fondo."
+  },
+  {
+    "month": 7,
+    "day": 26,
+    "saint": "Santi Gioacchino e Anna",
+    "quote": "I nonni sono il tesoro della famiglia e della società.",
+    "attribution": "Papa Francesco",
+    "prayer": "Santi Gioacchino e Anna, proteggete le famiglie e i nonni."
+  },
+  {
+    "month": 7,
+    "day": 27,
+    "saint": "San Pantaleone medico e martire",
+    "quote": "Guarire nel nome di Cristo è la medicina più potente.",
+    "attribution": "San Pantaleone",
+    "prayer": "San Pantaleone, guarisci le nostre infermità."
+  },
+  {
+    "month": 7,
+    "day": 28,
+    "saint": "Santi Nazario e Celso",
+    "quote": "Siamo compagni nel martirio come lo siamo stati nella fede.",
+    "attribution": "Santi Nazario e Celso",
+    "prayer": "Santi Nazario e Celso, uniteci nella testimonianza della fede."
+  },
+  {
+    "month": 7,
+    "day": 29,
+    "saint": "Santa Marta",
+    "quote": "Sì, o Signore, io credo che tu sei il Cristo, il Figlio di Dio.",
+    "attribution": "Giovanni 11,27",
+    "prayer": "Santa Marta, insegnaci a servire il Signore con amore."
+  },
+  {
+    "month": 7,
+    "day": 30,
+    "saint": "San Pietro Crisologo",
+    "quote": "Chi vuol scherzare col diavolo, non può rallegrarsi con Cristo.",
+    "attribution": "San Pietro Crisologo",
+    "prayer": "San Pietro, illuminaci con la tua predicazione."
+  },
+  {
+    "month": 7,
+    "day": 31,
+    "saint": "Sant'Ignazio di Loyola",
+    "quote": "In tutto amare e servire. Ad maiorem Dei gloriam.",
+    "attribution": "Sant'Ignazio di Loyola",
+    "prayer": "Sant'Ignazio, insegnaci a cercare in tutto la maggior gloria di Dio."
+  },
+  {
+    "month": 8,
+    "day": 1,
+    "saint": "Sant'Alfonso Maria de' Liguori",
+    "quote": "Chi prega si salva, chi non prega si danna.",
+    "attribution": "Sant'Alfonso Maria de' Liguori",
+    "prayer": "Sant'Alfonso, insegnaci la preghiera che salva."
+  },
+  {
+    "month": 8,
+    "day": 2,
+    "saint": "Sant'Eusebio di Vercelli",
+    "quote": "La verità di Cristo non ammette compromessi.",
+    "attribution": "Sant'Eusebio",
+    "prayer": "Sant'Eusebio, confermaci nella verità della fede."
+  },
+  {
+    "month": 8,
+    "day": 3,
+    "saint": "San Nicodemus",
+    "quote": "Come può un uomo nascere quando è vecchio? — Il vento soffia dove vuole.",
+    "attribution": "Giovanni 3,4.8",
+    "prayer": "San Nicodemus, donaci la grazia di rinascere nello Spirito."
+  },
+  {
+    "month": 8,
+    "day": 4,
+    "saint": "San Giovanni Maria Vianney",
+    "quote": "Il sacerdozio è l'amore del cuore di Gesù.",
+    "attribution": "San Giovanni Maria Vianney",
+    "prayer": "Santo Curato d'Ars, intercedi per i nostri sacerdoti."
+  },
+  {
+    "month": 8,
+    "day": 5,
+    "saint": "Dedicazione della Basilica di Santa Maria Maggiore",
+    "quote": "Sotto la tua protezione cerchiamo rifugio, Santa Madre di Dio.",
+    "attribution": "Sub tuum praesidium",
+    "prayer": "Maria, sii il rifugio e la protezione del tuo popolo."
+  },
+  {
+    "month": 8,
+    "day": 6,
+    "saint": "Trasfigurazione del Signore",
+    "quote": "Maestro, è bello per noi essere qui!",
+    "attribution": "Marco 9,5",
+    "prayer": "Signore, mostraci la tua gloria e trasforma il nostro cuore."
+  },
+  {
+    "month": 8,
+    "day": 7,
+    "saint": "San Sisto II papa e compagni martiri",
+    "quote": "Il pastore buono non fugge davanti al lupo.",
+    "attribution": "San Sisto II",
+    "prayer": "San Sisto, donaci pastori coraggiosi."
+  },
+  {
+    "month": 8,
+    "day": 8,
+    "saint": "San Domenico di Guzmán",
+    "quote": "Parlare con Dio o parlare di Dio.",
+    "attribution": "San Domenico",
+    "prayer": "San Domenico, accendi in noi la fiamma della predicazione."
+  },
+  {
+    "month": 8,
+    "day": 9,
+    "saint": "Santa Teresa Benedetta della Croce (Edith Stein)",
+    "quote": "Chi cerca la verità, cerca Dio, che lo sappia o no.",
+    "attribution": "Santa Edith Stein",
+    "prayer": "Santa Teresa Benedetta, guidaci dalla ricerca alla verità piena."
+  },
+  {
+    "month": 8,
+    "day": 10,
+    "saint": "San Lorenzo diacono e martire",
+    "quote": "Ecco, i poveri sono i veri tesori della Chiesa.",
+    "attribution": "San Lorenzo",
+    "prayer": "San Lorenzo, insegnaci a riconoscere Cristo nei poveri."
+  },
+  {
+    "month": 8,
+    "day": 11,
+    "saint": "Santa Chiara d'Assisi",
+    "quote": "Guardate la povertà di Colui che fu deposto nella mangiatoia.",
+    "attribution": "Santa Chiara d'Assisi",
+    "prayer": "Santa Chiara, donaci gli occhi della contemplazione."
+  },
+  {
+    "month": 8,
+    "day": 12,
+    "saint": "Santa Giovanna Francesca de Chantal",
+    "quote": "In tutte le cose, la volontà di Dio!",
+    "attribution": "Santa Giovanna Francesca de Chantal",
+    "prayer": "Santa Giovanna, insegnaci l'abbandono alla volontà di Dio."
+  },
+  {
+    "month": 8,
+    "day": 13,
+    "saint": "Santi Ponziano e Ippolito",
+    "quote": "La riconciliazione è la vittoria dell'amore sull'orgoglio.",
+    "attribution": "Santi Ponziano e Ippolito",
+    "prayer": "Santi Ponziano e Ippolito, donateci lo spirito di riconciliazione."
+  },
+  {
+    "month": 8,
+    "day": 14,
+    "saint": "San Massimiliano Maria Kolbe",
+    "quote": "L'Immacolata è la nostra ideale, il nostro amore, la nostra vita.",
+    "attribution": "San Massimiliano Kolbe",
+    "prayer": "San Massimiliano, insegnaci l'amore che dà la vita."
+  },
+  {
+    "month": 8,
+    "day": 15,
+    "saint": "Assunzione della Beata Vergine Maria",
+    "quote": "Grandi cose ha fatto per me l'Onnipotente, e Santo è il suo nome.",
+    "attribution": "Luca 1,49",
+    "prayer": "Maria Assunta, sii la nostra speranza di gloria."
+  },
+  {
+    "month": 8,
+    "day": 16,
+    "saint": "Santo Stefano d'Ungheria",
+    "quote": "Un popolo senza fede è un popolo senza futuro.",
+    "attribution": "Santo Stefano d'Ungheria",
+    "prayer": "Santo Stefano, guida i governanti nella sapienza cristiana."
+  },
+  {
+    "month": 8,
+    "day": 17,
+    "saint": "Santa Giovanna della Croce",
+    "quote": "Nella croce troviamo la gioia, perché Cristo l'ha trasformata in albero di vita.",
+    "attribution": "Santa Giovanna della Croce",
+    "prayer": "Santa Giovanna, donaci la gioia che nasce dalla croce."
+  },
+  {
+    "month": 8,
+    "day": 18,
+    "saint": "Santa Elena imperatrice",
+    "quote": "Cercai la croce di Cristo e la trovai: il tesoro più grande del mondo.",
+    "attribution": "Santa Elena",
+    "prayer": "Santa Elena, guidaci alla scoperta della Santa Croce."
+  },
+  {
+    "month": 8,
+    "day": 19,
+    "saint": "San Giovanni Eudes",
+    "quote": "Il Cuore di Gesù e il Cuore di Maria sono un cuore solo.",
+    "attribution": "San Giovanni Eudes",
+    "prayer": "San Giovanni, consacraci ai Sacri Cuori di Gesù e Maria."
+  },
+  {
+    "month": 8,
+    "day": 20,
+    "saint": "San Bernardo di Chiaravalle",
+    "quote": "Maria è l'acquedotto per cui ci giunge la grazia di Dio.",
+    "attribution": "San Bernardo di Chiaravalle",
+    "prayer": "San Bernardo, avvicinaci a Gesù attraverso Maria."
+  },
+  {
+    "month": 8,
+    "day": 21,
+    "saint": "San Pio X papa",
+    "quote": "Instaurare omnia in Christo — Rinnovare tutte le cose in Cristo.",
+    "attribution": "San Pio X",
+    "prayer": "San Pio X, rinnova in noi l'amore per l'Eucaristia."
+  },
+  {
+    "month": 8,
+    "day": 22,
+    "saint": "Beata Vergine Maria Regina",
+    "quote": "Maria Regina è la serva del Signore coronata di gloria.",
+    "attribution": "Tradizione mariana",
+    "prayer": "Maria Regina, governaci con la tua materna dolcezza."
+  },
+  {
+    "month": 8,
+    "day": 23,
+    "saint": "Santa Rosa da Lima",
+    "quote": "Non c'è altra scala per il paradiso che la croce.",
+    "attribution": "Santa Rosa da Lima",
+    "prayer": "Santa Rosa, donaci la forza di abbracciare la nostra croce."
+  },
+  {
+    "month": 8,
+    "day": 24,
+    "saint": "San Bartolomeo apostolo",
+    "quote": "Ecco davvero un Israelita in cui non c'è falsità.",
+    "attribution": "Giovanni 1,47",
+    "prayer": "San Bartolomeo, liberaci da ogni falsità e ipocrisia."
+  },
+  {
+    "month": 8,
+    "day": 25,
+    "saint": "San Giuseppe Calasanzio",
+    "quote": "L'educazione dei fanciulli è la riforma del mondo.",
+    "attribution": "San Giuseppe Calasanzio",
+    "prayer": "San Giuseppe, benedici le scuole e gli educatori."
+  },
+  {
+    "month": 8,
+    "day": 26,
+    "saint": "Sant'Alessandro di Bergamo",
+    "quote": "Il soldato di Cristo combatte con la fede, non con la spada.",
+    "attribution": "Sant'Alessandro",
+    "prayer": "Sant'Alessandro, proteggici nella battaglia spirituale."
+  },
+  {
+    "month": 8,
+    "day": 27,
+    "saint": "Santa Monica",
+    "quote": "Nulla è lontano da Dio; non c'è da temere che Egli non mi ritrovi.",
+    "attribution": "Santa Monica",
+    "prayer": "Santa Monica, intercedi per la conversione dei nostri cari."
+  },
+  {
+    "month": 8,
+    "day": 28,
+    "saint": "Sant'Agostino d'Ippona",
+    "quote": "Ci hai fatti per Te, Signore, e il nostro cuore è inquieto finché non riposa in Te.",
+    "attribution": "Sant'Agostino d'Ippona",
+    "prayer": "Sant'Agostino, guidaci nella ricerca inquieta della Verità."
+  },
+  {
+    "month": 8,
+    "day": 29,
+    "saint": "Martirio di San Giovanni Battista",
+    "quote": "Non ti è lecito tenere la moglie di tuo fratello.",
+    "attribution": "Marco 6,18",
+    "prayer": "San Giovanni Battista, donaci il coraggio della verità."
+  },
+  {
+    "month": 8,
+    "day": 30,
+    "saint": "Santa Margherita Ward",
+    "quote": "La fedeltà alla fede cattolica vale più della vita.",
+    "attribution": "Santa Margherita Ward",
+    "prayer": "Santa Margherita, donaci fedeltà nella persecuzione."
+  },
+  {
+    "month": 8,
+    "day": 31,
+    "saint": "San Raimondo Nonnato",
+    "quote": "Dare la propria libertà per liberare gli altri è carità perfetta.",
+    "attribution": "San Raimondo Nonnato",
+    "prayer": "San Raimondo, libera i prigionieri e i perseguitati."
+  },
+  {
+    "month": 9,
+    "day": 1,
+    "saint": "San Giosuè",
+    "quote": "Quanto a me e alla mia casa, serviremo il Signore.",
+    "attribution": "Giosuè 24,15",
+    "prayer": "San Giosuè, donaci la determinazione di servire il Signore."
+  },
+  {
+    "month": 9,
+    "day": 2,
+    "saint": "Beati Martiri della Guerra Civile Spagnola",
+    "quote": "Viva Cristo Re! — fu il grido dei martiri.",
+    "attribution": "Beati Martiri spagnoli",
+    "prayer": "Beati Martiri, intercedete per la libertà religiosa."
+  },
+  {
+    "month": 9,
+    "day": 3,
+    "saint": "San Gregorio Magno",
+    "quote": "La sacra Scrittura cresce con chi la legge.",
+    "attribution": "San Gregorio Magno",
+    "prayer": "San Gregorio, insegnaci ad amare la Parola di Dio."
+  },
+  {
+    "month": 9,
+    "day": 4,
+    "saint": "Santa Rosalia di Palermo",
+    "quote": "La solitudine con Dio è la più dolce compagnia.",
+    "attribution": "Santa Rosalia",
+    "prayer": "Santa Rosalia, proteggi la tua città e tutti i devoti."
+  },
+  {
+    "month": 9,
+    "day": 5,
+    "saint": "Santa Teresa di Calcutta",
+    "quote": "Non tutti possiamo fare grandi cose, ma possiamo fare piccole cose con grande amore.",
+    "attribution": "Santa Teresa di Calcutta",
+    "prayer": "Madre Teresa, insegnaci a vedere Cristo nei più poveri."
+  },
+  {
+    "month": 9,
+    "day": 6,
+    "saint": "San Zaccaria profeta",
+    "quote": "Non con la forza né con la potenza, ma con il mio Spirito, dice il Signore.",
+    "attribution": "Zaccaria 4,6",
+    "prayer": "San Zaccaria, insegnaci ad affidarci allo Spirito di Dio."
+  },
+  {
+    "month": 9,
+    "day": 7,
+    "saint": "San Grato di Aosta",
+    "quote": "Dalla vetta delle montagne si vede meglio il cielo.",
+    "attribution": "San Grato",
+    "prayer": "San Grato, elevaci verso le vette della santità."
+  },
+  {
+    "month": 9,
+    "day": 8,
+    "saint": "Natività della Beata Vergine Maria",
+    "quote": "Con la nascita di Maria, il mondo intero fu riempito di speranza.",
+    "attribution": "Tradizione liturgica",
+    "prayer": "Maria, la tua nascita è l'alba della nostra salvezza."
+  },
+  {
+    "month": 9,
+    "day": 9,
+    "saint": "San Pietro Claver",
+    "quote": "Io sono lo schiavo degli schiavi per sempre.",
+    "attribution": "San Pietro Claver",
+    "prayer": "San Pietro, donaci compassione per gli oppressi e gli schiavi."
+  },
+  {
+    "month": 9,
+    "day": 10,
+    "saint": "San Nicola da Tolentino",
+    "quote": "La preghiera per le anime del purgatorio è la più grande carità.",
+    "attribution": "San Nicola da Tolentino",
+    "prayer": "San Nicola, intercedi per le anime del purgatorio."
+  },
+  {
+    "month": 9,
+    "day": 11,
+    "saint": "San Proto e San Giacinto",
+    "quote": "Fratelli nel sangue e nella fede, uniti nel martirio.",
+    "attribution": "Santi Proto e Giacinto",
+    "prayer": "Santi Proto e Giacinto, uniteci nella fraternità cristiana."
+  },
+  {
+    "month": 9,
+    "day": 12,
+    "saint": "Santissimo Nome di Maria",
+    "quote": "Il nome di Maria è dolcezza per il cuore, miele per la bocca.",
+    "attribution": "San Bernardo",
+    "prayer": "Maria, il tuo nome sia la nostra protezione e consolazione."
+  },
+  {
+    "month": 9,
+    "day": 13,
+    "saint": "San Giovanni Crisostomo",
+    "quote": "Se sei cristiano, nessuna dimora terrena ti appartiene; la tua patria è la Gerusalemme celeste.",
+    "attribution": "San Giovanni Crisostomo",
+    "prayer": "San Giovanni Crisostomo, donaci la bocca d'oro della predicazione."
+  },
+  {
+    "month": 9,
+    "day": 14,
+    "saint": "Esaltazione della Santa Croce",
+    "quote": "Noi predichiamo Cristo crocifisso: scandalo per i Giudei, stoltezza per i pagani.",
+    "attribution": "1 Corinzi 1,23",
+    "prayer": "Signore, nella tua Croce è la nostra salvezza e la nostra gloria."
+  },
+  {
+    "month": 9,
+    "day": 15,
+    "saint": "Beata Vergine Maria Addolorata",
+    "quote": "Una spada ti trafiggerà l'anima, affinché siano svelati i pensieri di molti cuori.",
+    "attribution": "Luca 2,35",
+    "prayer": "Maria Addolorata, unisci le nostre sofferenze a quelle del tuo Figlio."
+  },
+  {
+    "month": 9,
+    "day": 16,
+    "saint": "Santi Cornelio e Cipriano",
+    "quote": "Non può avere Dio per padre chi non ha la Chiesa per madre.",
+    "attribution": "San Cipriano",
+    "prayer": "Santi Cornelio e Cipriano, custodite l'unità della Chiesa."
+  },
+  {
+    "month": 9,
+    "day": 17,
+    "saint": "San Roberto Bellarmino",
+    "quote": "La vera sapienza è conoscere Dio e conoscere se stessi.",
+    "attribution": "San Roberto Bellarmino",
+    "prayer": "San Roberto, illuminaci con la sapienza della dottrina."
+  },
+  {
+    "month": 9,
+    "day": 18,
+    "saint": "San Giuseppe da Copertino",
+    "quote": "Quando si ama Dio, l'anima vola.",
+    "attribution": "San Giuseppe da Copertino",
+    "prayer": "San Giuseppe, elevaci con le ali della preghiera."
+  },
+  {
+    "month": 9,
+    "day": 19,
+    "saint": "San Gennaro vescovo e martire",
+    "quote": "Il sangue dei santi è il sigillo della fede.",
+    "attribution": "San Gennaro",
+    "prayer": "San Gennaro, proteggi Napoli e tutti i devoti."
+  },
+  {
+    "month": 9,
+    "day": 20,
+    "saint": "Santi Andrea Kim e compagni martiri",
+    "quote": "La Chiesa in Corea è stata fondata dal sangue dei laici.",
+    "attribution": "Santi Martiri Coreani",
+    "prayer": "Santi Martiri Coreani, ispirate il laicato missionario."
+  },
+  {
+    "month": 9,
+    "day": 21,
+    "saint": "San Matteo apostolo ed evangelista",
+    "quote": "Seguimi! Ed egli si alzò e lo seguì.",
+    "attribution": "Matteo 9,9",
+    "prayer": "San Matteo, donaci la prontezza di seguire Cristo senza esitare."
+  },
+  {
+    "month": 9,
+    "day": 22,
+    "saint": "San Maurizio e compagni martiri",
+    "quote": "Siamo tuoi soldati, o Imperatore, ma siamo anche servi di Dio.",
+    "attribution": "San Maurizio",
+    "prayer": "San Maurizio, insegnaci a servire Dio prima di ogni altro."
+  },
+  {
+    "month": 9,
+    "day": 23,
+    "saint": "San Pio da Pietrelcina",
+    "quote": "Prega, spera e non ti preoccupare. La preoccupazione è inutile. Dio è misericordioso e ascolterà la tua preghiera.",
+    "attribution": "San Pio da Pietrelcina",
+    "prayer": "Padre Pio, intercedi per noi e guarisci le nostre ferite."
+  },
+  {
+    "month": 9,
+    "day": 24,
+    "saint": "San Pacifico di San Severino",
+    "quote": "La pazienza è la compagna inseparabile della sapienza.",
+    "attribution": "San Pacifico",
+    "prayer": "San Pacifico, donaci la pazienza nelle tribolazioni."
+  },
+  {
+    "month": 9,
+    "day": 25,
+    "saint": "San Cleofa",
+    "quote": "Non ardeva forse in noi il cuore mentre ci parlava lungo la via?",
+    "attribution": "Luca 24,32",
+    "prayer": "San Cleofa, accendi il nostro cuore con la Parola di Cristo."
+  },
+  {
+    "month": 9,
+    "day": 26,
+    "saint": "Santi Cosma e Damiano",
+    "quote": "Gratuitamente avete ricevuto, gratuitamente date.",
+    "attribution": "Matteo 10,8",
+    "prayer": "Santi Cosma e Damiano, benedite medici e operatori sanitari."
+  },
+  {
+    "month": 9,
+    "day": 27,
+    "saint": "San Vincenzo de' Paoli",
+    "quote": "Se un poverello muore di fame, non si tratta di un caso ma di un omicidio.",
+    "attribution": "San Vincenzo de' Paoli",
+    "prayer": "San Vincenzo, aprici gli occhi sulla povertà e donaci carità operosa."
+  },
+  {
+    "month": 9,
+    "day": 28,
+    "saint": "San Venceslao",
+    "quote": "Meglio servire Dio nella verità che regnare nell'ingiustizia.",
+    "attribution": "San Venceslao",
+    "prayer": "San Venceslao, dona ai governanti la sapienza della fede."
+  },
+  {
+    "month": 9,
+    "day": 29,
+    "saint": "Santi Arcangeli Michele, Gabriele e Raffaele",
+    "quote": "Chi è come Dio? — Questo è il grido di San Michele.",
+    "attribution": "Tradizione angelica",
+    "prayer": "Santi Arcangeli, difendeteci nella battaglia contro il male."
+  },
+  {
+    "month": 9,
+    "day": 30,
+    "saint": "San Girolamo",
+    "quote": "Ignorare le Scritture è ignorare Cristo.",
+    "attribution": "San Girolamo",
+    "prayer": "San Girolamo, donaci l'amore appassionato per la Parola di Dio."
+  },
+  {
+    "month": 10,
+    "day": 1,
+    "saint": "Santa Teresa di Gesù Bambino (di Lisieux)",
+    "quote": "La mia vocazione è l'Amore! Nel cuore della Chiesa, mia madre, io sarò l'Amore.",
+    "attribution": "Santa Teresa di Lisieux",
+    "prayer": "Santa Teresina, insegnaci la piccola via dell'amore e della fiducia."
+  },
+  {
+    "month": 10,
+    "day": 2,
+    "saint": "Santi Angeli Custodi",
+    "quote": "Dio ha dato ordine ai suoi angeli di custodirti in tutti i tuoi passi.",
+    "attribution": "Salmo 91,11",
+    "prayer": "Angelo di Dio, che sei il mio custode, illumina, custodisci, reggi e governa me."
+  },
+  {
+    "month": 10,
+    "day": 3,
+    "saint": "San Dionigi di Parigi",
+    "quote": "L'amore di Dio è più forte di ogni persecuzione.",
+    "attribution": "San Dionigi",
+    "prayer": "San Dionigi, proteggici nella testimonianza della fede."
+  },
+  {
+    "month": 10,
+    "day": 4,
+    "saint": "San Francesco d'Assisi",
+    "quote": "Signore, fa' di me uno strumento della tua pace. Dove è odio, fa' ch'io porti amore.",
+    "attribution": "Preghiera attribuita a San Francesco d'Assisi",
+    "prayer": "San Francesco, insegnaci la povertà, l'umiltà e l'amore per ogni creatura."
+  },
+  {
+    "month": 10,
+    "day": 5,
+    "saint": "Santa Faustina Kowalska",
+    "quote": "Gesù, confido in Te!",
+    "attribution": "Santa Faustina Kowalska",
+    "prayer": "Santa Faustina, insegnaci a confidare nella Divina Misericordia."
+  },
+  {
+    "month": 10,
+    "day": 6,
+    "saint": "San Bruno",
+    "quote": "Solo nella solitudine si può gustare la dolcezza della presenza di Dio.",
+    "attribution": "San Bruno",
+    "prayer": "San Bruno, guidaci nella contemplazione silenziosa di Dio."
+  },
+  {
+    "month": 10,
+    "day": 7,
+    "saint": "Beata Vergine Maria del Rosario",
+    "quote": "Il Rosario è la catena dolce che ci unisce a Dio.",
+    "attribution": "Tradizione mariana",
+    "prayer": "Maria del Rosario, insegnaci a meditare i misteri del tuo Figlio."
+  },
+  {
+    "month": 10,
+    "day": 8,
+    "saint": "Santa Pelagia penitente",
+    "quote": "La misericordia di Dio è più grande di ogni peccato.",
+    "attribution": "Santa Pelagia",
+    "prayer": "Santa Pelagia, donaci il coraggio della conversione."
+  },
+  {
+    "month": 10,
+    "day": 9,
+    "saint": "San Dionigi e compagni",
+    "quote": "Dove regna il martirio, fiorisce la Chiesa.",
+    "attribution": "San Dionigi",
+    "prayer": "San Dionigi, fortifica la Chiesa nelle prove."
+  },
+  {
+    "month": 10,
+    "day": 10,
+    "saint": "San Daniele Comboni",
+    "quote": "O Africa o morte! L'Africa si salverà con l'Africa.",
+    "attribution": "San Daniele Comboni",
+    "prayer": "San Daniele, accendi in noi la passione missionaria."
+  },
+  {
+    "month": 10,
+    "day": 11,
+    "saint": "San Giovanni XXIII",
+    "quote": "Ogni giorno è buono per nascere, ogni giorno è buono per morire.",
+    "attribution": "San Giovanni XXIII",
+    "prayer": "Papa Giovanni, donaci la gioia e la semplicità della fede."
+  },
+  {
+    "month": 10,
+    "day": 12,
+    "saint": "Beata Vergine Maria del Pilar",
+    "quote": "Maria è la colonna della fede che sostiene la Chiesa.",
+    "attribution": "Tradizione mariana",
+    "prayer": "Vergine del Pilar, sostieni la nostra fede."
+  },
+  {
+    "month": 10,
+    "day": 13,
+    "saint": "San Gerardo Maiella",
+    "quote": "Fare la volontà di Dio: questa è la mia massima.",
+    "attribution": "San Gerardo Maiella",
+    "prayer": "San Gerardo, proteggi le madri e i bambini."
+  },
+  {
+    "month": 10,
+    "day": 14,
+    "saint": "San Callisto I papa e martire",
+    "quote": "La misericordia deve prevalere sulla severità.",
+    "attribution": "San Callisto I",
+    "prayer": "San Callisto, donaci un cuore misericordioso."
+  },
+  {
+    "month": 10,
+    "day": 15,
+    "saint": "Santa Teresa d'Avila",
+    "quote": "Nulla ti turbi, nulla ti spaventi. Tutto passa, Dio non cambia. La pazienza ottiene tutto. Chi ha Dio non manca di nulla. Solo Dio basta.",
+    "attribution": "Santa Teresa d'Avila",
+    "prayer": "Santa Teresa, guidaci nelle mansioni dell'anima fino a Dio."
+  },
+  {
+    "month": 10,
+    "day": 16,
+    "saint": "Santa Margherita Maria Alacoque",
+    "quote": "Ecco quel Cuore che ha tanto amato gli uomini e che non riceve in cambio che ingratitudine.",
+    "attribution": "Santa Margherita Maria Alacoque",
+    "prayer": "Santa Margherita Maria, consacraci al Sacro Cuore di Gesù."
+  },
+  {
+    "month": 10,
+    "day": 17,
+    "saint": "Sant'Ignazio di Antiochia",
+    "quote": "Sono frumento di Dio e sarò macinato dai denti delle belve per diventare pane puro di Cristo.",
+    "attribution": "Sant'Ignazio di Antiochia",
+    "prayer": "Sant'Ignazio, donaci l'ardore del martirio per amore."
+  },
+  {
+    "month": 10,
+    "day": 18,
+    "saint": "San Luca evangelista",
+    "quote": "Mi è parso bene, dopo essermi informato di tutto con cura fin dall'origine, di scriverne per te.",
+    "attribution": "Luca 1,3",
+    "prayer": "San Luca, illumina chi annuncia e scrive il Vangelo."
+  },
+  {
+    "month": 10,
+    "day": 19,
+    "saint": "Santi Giovanni de Brébeuf e compagni",
+    "quote": "La mia penna è diventata la mia croce e il mio amore.",
+    "attribution": "San Giovanni de Brébeuf",
+    "prayer": "Santi Martiri canadesi, ispirate i missionari del Vangelo."
+  },
+  {
+    "month": 10,
+    "day": 20,
+    "saint": "Santa Maria Bertilla Boscardin",
+    "quote": "Ecco, Signore, sono la tua povera bestia da soma; caricami come vuoi.",
+    "attribution": "Santa Maria Bertilla",
+    "prayer": "Santa Bertilla, insegnaci la disponibilità totale a Dio."
+  },
+  {
+    "month": 10,
+    "day": 21,
+    "saint": "Santa Laura Montoya",
+    "quote": "Portare Cristo agli indigeni è portare loro la dignità.",
+    "attribution": "Santa Laura Montoya",
+    "prayer": "Santa Laura, benedici i missionari tra i popoli indigeni."
+  },
+  {
+    "month": 10,
+    "day": 22,
+    "saint": "San Giovanni Paolo II",
+    "quote": "Non abbiate paura! Aprite, anzi, spalancate le porte a Cristo!",
+    "attribution": "San Giovanni Paolo II",
+    "prayer": "San Giovanni Paolo, intercedi perché non abbiamo paura di aprire il cuore a Cristo."
+  },
+  {
+    "month": 10,
+    "day": 23,
+    "saint": "San Giovanni da Capestrano",
+    "quote": "La fede cattolica è un tesoro da difendere e diffondere.",
+    "attribution": "San Giovanni da Capestrano",
+    "prayer": "San Giovanni, rinnova in noi lo zelo per la difesa della fede."
+  },
+  {
+    "month": 10,
+    "day": 24,
+    "saint": "Sant'Antonio Maria Claret",
+    "quote": "L'amore di Dio mi consuma e non mi dà pace finché tutti non lo conoscano.",
+    "attribution": "Sant'Antonio Maria Claret",
+    "prayer": "Sant'Antonio Maria, accendi in noi il fuoco missionario."
+  },
+  {
+    "month": 10,
+    "day": 25,
+    "saint": "San Crispino e Crispiniano",
+    "quote": "Il lavoro umile santifica chi lo compie con amore.",
+    "attribution": "Santi Crispino e Crispiniano",
+    "prayer": "Santi Crispino e Crispiniano, santificate il nostro lavoro."
+  },
+  {
+    "month": 10,
+    "day": 26,
+    "saint": "Sant'Evaristo papa",
+    "quote": "Guidare il popolo di Dio è servire nella carità.",
+    "attribution": "Sant'Evaristo",
+    "prayer": "Sant'Evaristo, guida i pastori della Chiesa nel servizio."
+  },
+  {
+    "month": 10,
+    "day": 27,
+    "saint": "Sant'Emelina",
+    "quote": "La vita nascosta con Cristo in Dio è la più feconda.",
+    "attribution": "Sant'Emelina",
+    "prayer": "Sant'Emelina, insegnaci il valore della vita nascosta in Dio."
+  },
+  {
+    "month": 10,
+    "day": 28,
+    "saint": "Santi Simone e Giuda apostoli",
+    "quote": "Edificate voi stessi sopra la vostra santissima fede.",
+    "attribution": "Giuda 1,20",
+    "prayer": "Santi Simone e Giuda, edificateci nella santissima fede."
+  },
+  {
+    "month": 10,
+    "day": 29,
+    "saint": "San Narciso di Gerusalemme",
+    "quote": "L'acqua della fede si trasforma nel vino della grazia.",
+    "attribution": "San Narciso",
+    "prayer": "San Narciso, trasforma la nostra fede in grazia operante."
+  },
+  {
+    "month": 10,
+    "day": 30,
+    "saint": "San Germano di Capua",
+    "quote": "L'amicizia tra i santi è la più pura delle relazioni.",
+    "attribution": "San Germano",
+    "prayer": "San Germano, donaci amicizie sante e sincere."
+  },
+  {
+    "month": 10,
+    "day": 31,
+    "saint": "San Volfango di Ratisbona",
+    "quote": "Un buon vescovo forma un popolo santo.",
+    "attribution": "San Volfango",
+    "prayer": "San Volfango, ispira i vescovi nella cura del gregge."
+  },
+  {
+    "month": 11,
+    "day": 1,
+    "saint": "Tutti i Santi",
+    "quote": "Beati i puri di cuore, perché vedranno Dio.",
+    "attribution": "Matteo 5,8",
+    "prayer": "Santi del cielo, intercedete per noi e guidateci alla santità."
+  },
+  {
+    "month": 11,
+    "day": 2,
+    "saint": "Commemorazione dei Defunti",
+    "quote": "Io sono la risurrezione e la vita; chi crede in me, anche se muore, vivrà.",
+    "attribution": "Giovanni 11,25",
+    "prayer": "Signore, dona il riposo eterno ai nostri cari defunti."
+  },
+  {
+    "month": 11,
+    "day": 3,
+    "saint": "San Martino de Porres",
+    "quote": "La scopa è il mio strumento preferito: pulisco il convento e pulisco la mia anima.",
+    "attribution": "San Martino de Porres",
+    "prayer": "San Martino, insegnaci l'umiltà e la carità verso tutti."
+  },
+  {
+    "month": 11,
+    "day": 4,
+    "saint": "San Carlo Borromeo",
+    "quote": "Le anime si conquistano con le ginocchia piegate, non con i pugni alzati.",
+    "attribution": "San Carlo Borromeo",
+    "prayer": "San Carlo, rinnova la Chiesa con lo spirito della riforma."
+  },
+  {
+    "month": 11,
+    "day": 5,
+    "saint": "Sant'Elisabetta e Zaccaria",
+    "quote": "Non temere, Zaccaria, la tua preghiera è stata esaudita.",
+    "attribution": "Luca 1,13",
+    "prayer": "Santi Elisabetta e Zaccaria, insegnateci la fedeltà nella preghiera."
+  },
+  {
+    "month": 11,
+    "day": 6,
+    "saint": "San Leonardo di Noblac",
+    "quote": "La libertà vera si trova nel servizio a Dio e ai fratelli.",
+    "attribution": "San Leonardo",
+    "prayer": "San Leonardo, libera i prigionieri e i cuori incatenati."
+  },
+  {
+    "month": 11,
+    "day": 7,
+    "saint": "Sant'Ernesto di Zwiefalten",
+    "quote": "Il monaco è un pellegrino che cammina verso la Gerusalemme celeste.",
+    "attribution": "Sant'Ernesto",
+    "prayer": "Sant'Ernesto, guidaci nel pellegrinaggio della vita."
+  },
+  {
+    "month": 11,
+    "day": 8,
+    "saint": "San Goffredo di Amiens",
+    "quote": "La povertà del vescovo è la ricchezza della diocesi.",
+    "attribution": "San Goffredo",
+    "prayer": "San Goffredo, ispira i pastori alla semplicità evangelica."
+  },
+  {
+    "month": 11,
+    "day": 9,
+    "saint": "Dedicazione della Basilica Lateranense",
+    "quote": "Voi siete il tempio di Dio e lo Spirito di Dio abita in voi.",
+    "attribution": "1 Corinzi 3,16",
+    "prayer": "Signore, rendi la nostra anima tempio degno del tuo Spirito."
+  },
+  {
+    "month": 11,
+    "day": 10,
+    "saint": "San Leone Magno",
+    "quote": "Riconosci, cristiano, la tua dignità e, divenuto partecipe della natura divina, non voler tornare alla primitiva bassezza.",
+    "attribution": "San Leone Magno",
+    "prayer": "San Leone, aiutaci a vivere la dignità del nostro battesimo."
+  },
+  {
+    "month": 11,
+    "day": 11,
+    "saint": "San Martino di Tours",
+    "quote": "Signore, se il tuo popolo ha ancora bisogno di me, non ricuso la fatica.",
+    "attribution": "San Martino di Tours",
+    "prayer": "San Martino, insegnaci la carità che condivide il mantello."
+  },
+  {
+    "month": 11,
+    "day": 12,
+    "saint": "San Giosafat",
+    "quote": "Per l'unità della Chiesa sono pronto a dare la vita.",
+    "attribution": "San Giosafat",
+    "prayer": "San Giosafat, donaci lo spirito dell'unità dei cristiani."
+  },
+  {
+    "month": 11,
+    "day": 13,
+    "saint": "Santa Francesca Saverio Cabrini",
+    "quote": "Possiamo fare tutto in Colui che ci dà forza.",
+    "attribution": "Santa Francesca Cabrini",
+    "prayer": "Santa Francesca, proteggi i migranti e gli emigranti."
+  },
+  {
+    "month": 11,
+    "day": 14,
+    "saint": "San Lorenzo O'Toole",
+    "quote": "La Chiesa è madre dei popoli e ponte tra le nazioni.",
+    "attribution": "San Lorenzo O'Toole",
+    "prayer": "San Lorenzo, dona ai pastori la sapienza del dialogo."
+  },
+  {
+    "month": 11,
+    "day": 15,
+    "saint": "Sant'Alberto Magno",
+    "quote": "La scienza e la fede sono due ali dello stesso uccello.",
+    "attribution": "Sant'Alberto Magno",
+    "prayer": "Sant'Alberto, insegnaci l'armonia tra fede e ragione."
+  },
+  {
+    "month": 11,
+    "day": 16,
+    "saint": "Santa Margherita di Scozia",
+    "quote": "La regina che serve i poveri serve il Re dei re.",
+    "attribution": "Santa Margherita di Scozia",
+    "prayer": "Santa Margherita, ispira i governanti alla carità."
+  },
+  {
+    "month": 11,
+    "day": 17,
+    "saint": "Santa Elisabetta d'Ungheria",
+    "quote": "Come potrei portare una corona d'oro quando il Signore porta una corona di spine?",
+    "attribution": "Santa Elisabetta d'Ungheria",
+    "prayer": "Santa Elisabetta, donaci la carità concreta verso i poveri."
+  },
+  {
+    "month": 11,
+    "day": 18,
+    "saint": "Dedicazione delle Basiliche dei Santi Pietro e Paolo",
+    "quote": "La Chiesa è fondata sulla roccia degli apostoli.",
+    "attribution": "Tradizione liturgica",
+    "prayer": "Santi Pietro e Paolo, mantenete salda la Chiesa sulle fondamenta apostoliche."
+  },
+  {
+    "month": 11,
+    "day": 19,
+    "saint": "San Fausto di Alessandria",
+    "quote": "Nella prova la fede si purifica come l'oro nel fuoco.",
+    "attribution": "San Fausto",
+    "prayer": "San Fausto, purifica la nostra fede nelle prove."
+  },
+  {
+    "month": 11,
+    "day": 20,
+    "saint": "Sant'Edmondo re e martire",
+    "quote": "Non rinnegherò mai il mio Cristo, né per la vita né per la morte.",
+    "attribution": "Sant'Edmondo",
+    "prayer": "Sant'Edmondo, donaci la fedeltà regale a Cristo."
+  },
+  {
+    "month": 11,
+    "day": 21,
+    "saint": "Presentazione della Beata Vergine Maria",
+    "quote": "Maria si offrì tutta a Dio fin dalla sua infanzia.",
+    "attribution": "Tradizione mariana",
+    "prayer": "Maria, consacraci interamente al Signore come hai fatto tu."
+  },
+  {
+    "month": 11,
+    "day": 22,
+    "saint": "Santa Cecilia vergine e martire",
+    "quote": "Cantate al Signore un canto nuovo, perché la musica eleva l'anima a Dio.",
+    "attribution": "Santa Cecilia",
+    "prayer": "Santa Cecilia, patrona della musica, elevaci a Dio con il canto."
+  },
+  {
+    "month": 11,
+    "day": 23,
+    "saint": "San Clemente I papa",
+    "quote": "L'obbedienza nella fede è la via della salvezza.",
+    "attribution": "San Clemente I",
+    "prayer": "San Clemente, confermaci nell'obbedienza alla fede."
+  },
+  {
+    "month": 11,
+    "day": 24,
+    "saint": "Sant'Andrea Dung-Lac e compagni",
+    "quote": "La fede del Vietnam è stata scritta con il sangue.",
+    "attribution": "Sant'Andrea Dung-Lac",
+    "prayer": "Sant'Andrea, proteggi la Chiesa perseguitata in Asia."
+  },
+  {
+    "month": 11,
+    "day": 25,
+    "saint": "Santa Caterina d'Alessandria",
+    "quote": "La sapienza di Dio confonde la sapienza del mondo.",
+    "attribution": "Santa Caterina d'Alessandria",
+    "prayer": "Santa Caterina, donaci la sapienza che viene da Dio."
+  },
+  {
+    "month": 11,
+    "day": 26,
+    "saint": "San Silvestre Gozzolini",
+    "quote": "La vita monastica è anticipazione del paradiso in terra.",
+    "attribution": "San Silvestre Gozzolini",
+    "prayer": "San Silvestre, guida chi cerca Dio nella vita consacrata."
+  },
+  {
+    "month": 11,
+    "day": 27,
+    "saint": "Santa Vergine Maria della Medaglia Miracolosa",
+    "quote": "O Maria, concepita senza peccato, pregate per noi che ricorriamo a voi.",
+    "attribution": "Preghiera della Medaglia Miracolosa",
+    "prayer": "Maria della Medaglia Miracolosa, coprici con la tua grazia."
+  },
+  {
+    "month": 11,
+    "day": 28,
+    "saint": "San Giacomo della Marca",
+    "quote": "La predicazione itinerante è l'eredità degli apostoli.",
+    "attribution": "San Giacomo della Marca",
+    "prayer": "San Giacomo, rinnova in noi lo zelo della predicazione."
+  },
+  {
+    "month": 11,
+    "day": 29,
+    "saint": "San Saturnino di Tolosa",
+    "quote": "Il vero tempio di Dio è il cuore del cristiano.",
+    "attribution": "San Saturnino",
+    "prayer": "San Saturnino, purifica il tempio del nostro cuore."
+  },
+  {
+    "month": 11,
+    "day": 30,
+    "saint": "Sant'Andrea apostolo",
+    "quote": "Abbiamo trovato il Messia! — e condusse suo fratello da Gesù.",
+    "attribution": "Giovanni 1,41",
+    "prayer": "Sant'Andrea, donaci la gioia di portare gli altri a Cristo."
+  },
+  {
+    "month": 12,
+    "day": 1,
+    "saint": "Sant'Eligio di Noyon",
+    "quote": "Cristo è il vero gioiello che adorna l'anima.",
+    "attribution": "Sant'Eligio",
+    "prayer": "Sant'Eligio, insegnaci a cercare la vera bellezza in Cristo."
+  },
+  {
+    "month": 12,
+    "day": 2,
+    "saint": "Santa Bibiana",
+    "quote": "La grazia di Dio è la forza nelle nostre debolezze.",
+    "attribution": "Santa Bibiana",
+    "prayer": "Santa Bibiana, donaci la grazia della perseveranza."
+  },
+  {
+    "month": 12,
+    "day": 3,
+    "saint": "San Francesco Saverio",
+    "quote": "Quante anime si perdono perché non c'è chi le aiuti!",
+    "attribution": "San Francesco Saverio",
+    "prayer": "San Francesco Saverio, suscita missionari per il mondo intero."
+  },
+  {
+    "month": 12,
+    "day": 4,
+    "saint": "San Giovanni Damasceno",
+    "quote": "Le icone sono il Vangelo in colori.",
+    "attribution": "San Giovanni Damasceno",
+    "prayer": "San Giovanni, insegnaci a contemplare Dio attraverso la bellezza."
+  },
+  {
+    "month": 12,
+    "day": 5,
+    "saint": "San Saba archimandrita",
+    "quote": "Il deserto è la palestra dell'anima.",
+    "attribution": "San Saba",
+    "prayer": "San Saba, guidaci nell'ascesi che purifica il cuore."
+  },
+  {
+    "month": 12,
+    "day": 6,
+    "saint": "San Nicola di Bari",
+    "quote": "La generosità nascosta è la più gradita a Dio.",
+    "attribution": "San Nicola",
+    "prayer": "San Nicola, insegnaci la generosità discreta e gioiosa."
+  },
+  {
+    "month": 12,
+    "day": 7,
+    "saint": "Sant'Ambrogio",
+    "quote": "Dove c'è Pietro, lì c'è la Chiesa; dove c'è la Chiesa, lì non c'è morte ma vita eterna.",
+    "attribution": "Sant'Ambrogio",
+    "prayer": "Sant'Ambrogio, guidaci con la tua sapienza pastorale."
+  },
+  {
+    "month": 12,
+    "day": 8,
+    "saint": "Immacolata Concezione della Beata Vergine Maria",
+    "quote": "Tutta bella sei, Maria, e macchia originale non è in te.",
+    "attribution": "Liturgia dell'Immacolata",
+    "prayer": "Maria Immacolata, preservaci dal peccato e guidaci alla purezza."
+  },
+  {
+    "month": 12,
+    "day": 9,
+    "saint": "San Juan Diego",
+    "quote": "Non sono forse qui io, che sono tua Madre?",
+    "attribution": "La Madonna a San Juan Diego",
+    "prayer": "San Juan Diego, insegnaci la fiducia nella Madre celeste."
+  },
+  {
+    "month": 12,
+    "day": 10,
+    "saint": "Beata Vergine Maria di Loreto",
+    "quote": "La Santa Casa è il luogo dove il Verbo si fece carne.",
+    "attribution": "Tradizione lauretana",
+    "prayer": "Madonna di Loreto, benedici le nostre case e famiglie."
+  },
+  {
+    "month": 12,
+    "day": 11,
+    "saint": "San Damaso I papa",
+    "quote": "La venerazione dei martiri è la gloria della Chiesa.",
+    "attribution": "San Damaso I",
+    "prayer": "San Damaso, custodisci la memoria dei santi martiri."
+  },
+  {
+    "month": 12,
+    "day": 12,
+    "saint": "Beata Vergine Maria di Guadalupe",
+    "quote": "Non ci sono qui io che sono tua Madre? Non sei forse sotto la mia ombra e protezione?",
+    "attribution": "La Madonna di Guadalupe",
+    "prayer": "Vergine di Guadalupe, sii la nostra stella dell'evangelizzazione."
+  },
+  {
+    "month": 12,
+    "day": 13,
+    "saint": "Santa Lucia vergine e martire",
+    "quote": "La luce di Cristo illumina anche la notte più buia.",
+    "attribution": "Santa Lucia",
+    "prayer": "Santa Lucia, proteggi i nostri occhi e illumina il nostro cammino."
+  },
+  {
+    "month": 12,
+    "day": 14,
+    "saint": "San Giovanni della Croce",
+    "quote": "Alla sera della vita saremo giudicati sull'amore.",
+    "attribution": "San Giovanni della Croce",
+    "prayer": "San Giovanni della Croce, guidaci nella notte oscura verso la luce."
+  },
+  {
+    "month": 12,
+    "day": 15,
+    "saint": "Santa Virginia Centurione Bracelli",
+    "quote": "La carità non ha limiti e non conosce stanchezza.",
+    "attribution": "Santa Virginia",
+    "prayer": "Santa Virginia, donaci la carità instancabile."
+  },
+  {
+    "month": 12,
+    "day": 16,
+    "saint": "Sant'Adelaide imperatrice",
+    "quote": "Il potere è grazia quando è usato per il bene dei sudditi.",
+    "attribution": "Sant'Adelaide",
+    "prayer": "Sant'Adelaide, ispira i governanti alla giustizia e alla bontà."
+  },
+  {
+    "month": 12,
+    "day": 17,
+    "saint": "San Lazzaro di Betania",
+    "quote": "Lazzaro, vieni fuori! — La voce di Cristo risveglia i morti.",
+    "attribution": "Giovanni 11,43",
+    "prayer": "San Lazzaro, risvegliaci dalla morte spirituale."
+  },
+  {
+    "month": 12,
+    "day": 18,
+    "saint": "San Graziano di Tours",
+    "quote": "I primi evangelizzatori sono i fondamenti della fede locale.",
+    "attribution": "San Graziano",
+    "prayer": "San Graziano, benedici le nostre comunità parrocchiali."
+  },
+  {
+    "month": 12,
+    "day": 19,
+    "saint": "Beato Urbano V papa",
+    "quote": "La santità del Papa è il faro della Chiesa universale.",
+    "attribution": "Beato Urbano V",
+    "prayer": "Beato Urbano, intercedi per il Santo Padre."
+  },
+  {
+    "month": 12,
+    "day": 20,
+    "saint": "San Domenico di Silos",
+    "quote": "La liberazione viene da Dio; noi siamo solo strumenti.",
+    "attribution": "San Domenico di Silos",
+    "prayer": "San Domenico, libera chi è prigioniero nel corpo e nello spirito."
+  },
+  {
+    "month": 12,
+    "day": 21,
+    "saint": "San Pietro Canisio",
+    "quote": "Meglio una pagina letta con il cuore che cento lette con gli occhi.",
+    "attribution": "San Pietro Canisio",
+    "prayer": "San Pietro, rinnova in noi l'amore per il catechismo."
+  },
+  {
+    "month": 12,
+    "day": 22,
+    "saint": "Santa Francesca Saverio Cabrini (in alcune diocesi)",
+    "quote": "Il cuore di Cristo non conosce frontiere.",
+    "attribution": "Santa Francesca Cabrini",
+    "prayer": "Santa Francesca, proteggi chi lascia la propria terra."
+  },
+  {
+    "month": 12,
+    "day": 23,
+    "saint": "San Giovanni di Kęty",
+    "quote": "Non combattere mai le opinioni altrui con la forza, ma con la dolcezza.",
+    "attribution": "San Giovanni di Kęty",
+    "prayer": "San Giovanni, insegnaci il dialogo rispettoso e la carità intellettuale."
+  },
+  {
+    "month": 12,
+    "day": 24,
+    "saint": "Santa Paola Elisabetta Cerioli",
+    "quote": "L'amore per gli orfani è immagine dell'amore di Dio per noi.",
+    "attribution": "Santa Paola Elisabetta Cerioli",
+    "prayer": "Santa Paola, proteggi gli orfani e i bambini abbandonati."
+  },
+  {
+    "month": 12,
+    "day": 25,
+    "saint": "Natività del Signore",
+    "quote": "Gloria a Dio nel più alto dei cieli e sulla terra pace agli uomini, che egli ama.",
+    "attribution": "Luca 2,14",
+    "prayer": "Gesù Bambino, dona la tua pace al mondo intero."
+  },
+  {
+    "month": 12,
+    "day": 26,
+    "saint": "Santo Stefano protomartire",
+    "quote": "Ecco, contemplo i cieli aperti e il Figlio dell'uomo che sta alla destra di Dio.",
+    "attribution": "Atti 7,56",
+    "prayer": "Santo Stefano, donaci il coraggio del primo martire."
+  },
+  {
+    "month": 12,
+    "day": 27,
+    "saint": "San Giovanni apostolo ed evangelista",
+    "quote": "Dio è amore; chi rimane nell'amore rimane in Dio e Dio rimane in lui.",
+    "attribution": "1 Giovanni 4,16",
+    "prayer": "San Giovanni, insegnaci che Dio è amore."
+  },
+  {
+    "month": 12,
+    "day": 28,
+    "saint": "Santi Innocenti martiri",
+    "quote": "Dalla bocca dei bambini e dei lattanti hai tratto una lode.",
+    "attribution": "Matteo 21,16",
+    "prayer": "Santi Innocenti, proteggete i bambini di tutto il mondo."
+  },
+  {
+    "month": 12,
+    "day": 29,
+    "saint": "San Tommaso Becket",
+    "quote": "Per il nome di Gesù e la difesa della Chiesa, sono pronto a morire.",
+    "attribution": "San Tommaso Becket",
+    "prayer": "San Tommaso, donaci la fedeltà alla Chiesa anche nel sacrificio."
+  },
+  {
+    "month": 12,
+    "day": 30,
+    "saint": "San Ruggero di Canne",
+    "quote": "Il buon pastore difende il gregge anche a costo della vita.",
+    "attribution": "San Ruggero",
+    "prayer": "San Ruggero, proteggi i pastori e il popolo di Dio."
+  },
+  {
+    "month": 12,
+    "day": 31,
+    "saint": "San Silvestro I papa",
+    "quote": "La Chiesa cammina nella storia guidata dallo Spirito Santo.",
+    "attribution": "San Silvestro I",
+    "prayer": "San Silvestro, accompagnaci nel passaggio verso il nuovo anno con la tua benedizione."
+  }
+]
