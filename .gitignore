@@ -15,7 +15,7 @@
 *.keystore
 
 # PWA
-site-files/icons/*.png
+# Keep generated icons in repo
 
 # OS
 .DS_Store
