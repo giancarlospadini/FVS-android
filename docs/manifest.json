@@ -2,7 +2,7 @@
   "name": "La Sfida della Fede",
   "short_name": "Fede",
   "description": "Citazioni dei Santi e preghiera quotidiana",
-  "start_url": "/",
+  "start_url": "/FVS-android/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#1a237e",
@@ -10,7 +10,7 @@
   "lang": "it",
   "categories": ["lifestyle", "education"],
   "icons": [
-    {"src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
-    {"src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+    {"src": "/FVS-android/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "/FVS-android/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
   ]
 }

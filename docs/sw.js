@@ -1,9 +1,10 @@
 const CACHE_NAME = 'fvs-cache-v1';
+const BASE = '/FVS-android/';
 const STATIC_ASSETS = [
-  '/',
-  '/index.html',
-  '/offline.html',
-  '/manifest.json'
+  BASE,
+  BASE + 'index.html',
+  BASE + 'offline.html',
+  BASE + 'manifest.json'
 ];
 
 const API_CACHE = 'fvs-api-v1';
@@ -77,7 +78,7 @@ self.addEventListener('fetch', (event) => {
         })
         .catch(() => {
           return caches.match(request).then((cached) => {
-            return cached || caches.match('/offline.html');
+            return cached || caches.match(BASE + 'offline.html');
           });
         })
     );
